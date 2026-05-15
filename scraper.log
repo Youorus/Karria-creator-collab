@@ -1,0 +1,1239 @@
+2026-05-15 16:07:29,709 [INFO] Config — Pays: FR | Followers: 5000-50000
+2026-05-15 16:07:29,709 [INFO] Catégories: toutes
+2026-05-15 16:07:29,709 [INFO] Mots-clés: ['beaute', 'maquillage', 'skincare', 'makeup', 'cosmétique']
+2026-05-15 16:07:29,709 [INFO] ====== WebDriver manager ======
+2026-05-15 16:07:30,077 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:07:30,305 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:07:30,361 [INFO] Driver [/Users/marc./.wdm/drivers/chromedriver/mac64/148.0.7778.167/chromedriver-mac-arm64/chromedriver] found in cache
+2026-05-15 16:07:32,208 [INFO] Ouverture de TikTok (https://www.tiktok.com/fr/)
+2026-05-15 16:07:51,052 [INFO] Environnement de localisation injecté.
+2026-05-15 16:07:51,052 [INFO] Recherche : 'beaute' → https://www.tiktok.com/search/user?q=beaute
+2026-05-15 16:07:54,760 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:07:59,681 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:08:04,118 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:08:09,131 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:08:13,360 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:08:18,007 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:08:22,763 [INFO] Total cumulé : 10 URLs
+2026-05-15 16:08:25,744 [INFO] Recherche : 'maquillage' → https://www.tiktok.com/search/user?q=maquillage
+2026-05-15 16:08:29,713 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:08:33,444 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:08:36,596 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:08:40,788 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:08:45,695 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:08:50,279 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:08:53,855 [INFO] Total cumulé : 20 URLs
+2026-05-15 16:08:58,618 [INFO] Recherche : 'skincare' → https://www.tiktok.com/search/user?q=skincare
+2026-05-15 16:09:02,338 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:09:06,329 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:09:10,324 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:09:14,622 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:09:19,356 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:09:23,319 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:09:27,569 [INFO] Total cumulé : 30 URLs
+2026-05-15 16:09:30,409 [INFO] Recherche : 'makeup' → https://www.tiktok.com/search/user?q=makeup
+2026-05-15 16:09:34,133 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:09:39,107 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:09:43,067 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:09:46,904 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:09:49,960 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:09:54,630 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:09:59,297 [INFO] Total cumulé : 40 URLs
+2026-05-15 16:10:03,730 [INFO] Recherche : 'cosmétique' → https://www.tiktok.com/search/user?q=cosmétique
+2026-05-15 16:10:07,478 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:10:11,328 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:10:15,863 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:10:20,325 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:10:25,027 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:10:28,147 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:10:32,638 [INFO] Total cumulé : 50 URLs
+2026-05-15 16:10:36,509 [INFO] 
+──────────────────────────────────────────────────
+2026-05-15 16:10:36,510 [INFO] 50 profils à examiner (checkpoint: 9 déjà traités)
+2026-05-15 16:10:36,510 [INFO] ──────────────────────────────────────────────────
+
+2026-05-15 16:10:36,512 [INFO] (1/50) @ihssa400
+2026-05-15 16:10:37,024 [INFO]   ✗ Région=SA ≠ FR
+2026-05-15 16:10:37,026 [INFO] (2/50) @bellashofie_rigan
+2026-05-15 16:10:37,407 [INFO]   ✗ Région=N/A ≠ FR
+2026-05-15 16:10:37,408 [INFO] (3/50) @makeupbyjuani
+2026-05-15 16:10:37,742 [INFO]   ✗ Région=AR ≠ FR
+2026-05-15 16:10:37,743 [INFO] (4/50) @chems_latreche
+2026-05-15 16:10:38,067 [INFO]   ✗ Région=AE ≠ FR
+2026-05-15 16:10:38,067 [INFO] (5/50) @univers.cosmtique
+2026-05-15 16:10:38,408 [INFO]   ✗ Région=GN ≠ FR
+2026-05-15 16:10:38,409 [INFO] (6/50) @apprendre_le_francais5
+2026-05-15 16:10:38,729 [INFO]   ✗ Région=TN ≠ FR
+2026-05-15 16:10:38,730 [INFO] (7/50) @_makeupbyjhuffandvon2328
+2026-05-15 16:10:39,086 [INFO]   ✗ Région=PH ≠ FR
+2026-05-15 16:10:39,086 [INFO] (8/50) @makeup
+2026-05-15 16:10:39,456 [INFO]   ✗ Région=AR ≠ FR
+2026-05-15 16:10:39,457 [INFO] (9/50) @elsbellusskincare
+2026-05-15 16:10:39,727 [INFO]   ✗ Région=IT ≠ FR
+2026-05-15 16:10:39,728 [INFO] (10/50) @ghanimaquillage
+2026-05-15 16:10:40,095 [INFO]   ✗ Région=DZ ≠ FR
+2026-05-15 16:10:40,096 [INFO] (11/50) @skincare359
+2026-05-15 16:10:40,531 [INFO]   ✗ Région=SA ≠ FR
+2026-05-15 16:10:40,531 [INFO] (12/50) @bubble
+2026-05-15 16:10:40,898 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:10:40,898 [INFO] (13/50) @beautosal
+2026-05-15 16:10:41,280 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:10:41,281 [INFO] (14/50) @creamyskincare
+2026-05-15 16:10:41,661 [INFO]   ✗ Région=BR ≠ FR
+2026-05-15 16:10:41,661 [INFO] (15/50) @by.fannys
+2026-05-15 16:10:43,852 [INFO]   ✗ Trop d'abonnés (6.1M)
+2026-05-15 16:10:43,852 [INFO] (16/50) @skincaredungcach.byson
+2026-05-15 16:10:44,350 [INFO]   ✗ Région=VN ≠ FR
+2026-05-15 16:10:44,350 [INFO] (17/50) @makeupchic119
+2026-05-15 16:10:46,319 [INFO]   ✗ Trop d'abonnés (1.7M)
+2026-05-15 16:10:46,319 [INFO] (18/50) @makeup.919
+2026-05-15 16:10:46,806 [INFO]   ✗ Région=GB ≠ FR
+2026-05-15 16:10:46,806 [INFO] (19/50) @kash.bm
+2026-05-15 16:10:47,073 [INFO]   ✗ Région=DZ ≠ FR
+2026-05-15 16:10:47,073 [INFO] (20/50) @beaute_girl7890
+2026-05-15 16:10:47,386 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:10:47,387 [INFO] (21/50) @maquillage.jp
+2026-05-15 16:10:47,835 [INFO]   ✗ Région=JP ≠ FR
+2026-05-15 16:10:47,836 [INFO] (22/50) @manelmaquillage
+2026-05-15 16:10:48,165 [INFO]   ✗ Région=DZ ≠ FR
+2026-05-15 16:10:48,165 [INFO] (23/50) @skincare..011
+2026-05-15 16:10:48,480 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:10:48,481 [INFO] (24/50) @makeupbyyllke
+2026-05-15 16:10:48,735 [INFO]   ✗ Région=CA ≠ FR
+2026-05-15 16:10:48,736 [INFO] (25/50) @maccosmetics
+2026-05-15 16:10:49,118 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:10:49,119 [INFO] (26/50) @cosmti5
+2026-05-15 16:10:49,519 [INFO]   ✗ Région=DZ ≠ FR
+2026-05-15 16:10:49,520 [INFO] (27/50) @beauteplus24
+2026-05-15 16:10:49,779 [INFO]   ✗ Région=GN ≠ FR
+2026-05-15 16:10:49,779 [INFO] (28/50) @ariel
+2026-05-15 16:10:50,026 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:10:50,027 [INFO] (29/50) @hnh.skincare
+2026-05-15 16:10:50,465 [INFO]   ✗ Région=ID ≠ FR
+2026-05-15 16:10:50,466 [INFO] (30/50) @beautetoxofficial
+2026-05-15 16:10:50,809 [INFO]   ✗ Région=ID ≠ FR
+2026-05-15 16:10:50,809 [INFO] (31/50) @cosmeticsdaoud
+2026-05-15 16:10:51,143 [INFO]   ✗ Région=DZ ≠ FR
+2026-05-15 16:10:51,144 [INFO] (32/50) @lolobeaute85
+2026-05-15 16:10:53,224 [INFO]   ✗ Trop d'abonnés (955.8K)
+2026-05-15 16:10:53,225 [INFO] (33/50) @skincarebysamy
+2026-05-15 16:10:55,032 [INFO]   ✗ Trop d'abonnés (1M)
+2026-05-15 16:10:55,033 [INFO] (34/50) @dr.leo.philippines
+2026-05-15 16:10:55,373 [INFO]   ✗ Région=PH ≠ FR
+2026-05-15 16:10:55,374 [INFO] (35/50) @beaute_lara
+2026-05-15 16:10:57,260 [INFO]   ✗ Trop d'abonnés (232.2K)
+2026-05-15 16:10:57,261 [INFO] (36/50) @makeup.douyin_bienhinh
+2026-05-15 16:10:57,577 [INFO]   ✗ Région=VN ≠ FR
+2026-05-15 16:10:57,578 [INFO] (37/50) @tamer.maquillage
+2026-05-15 16:10:58,003 [INFO]   ✗ Région=DZ ≠ FR
+2026-05-15 16:10:58,004 [INFO] (38/50) @beaute__senegalaise
+2026-05-15 16:10:58,338 [INFO]   ✗ Région=SN ≠ FR
+2026-05-15 16:10:58,339 [INFO] (39/50) @latinabeautty
+2026-05-15 16:10:58,684 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:10:58,685 [INFO] (40/50) @lina.cosmetique19
+2026-05-15 16:10:59,054 [INFO]   ✗ Région=N/A ≠ FR
+2026-05-15 16:10:59,055 [INFO] (41/50) @bysmaquillage
+2026-05-15 16:11:01,415 [INFO]   ✓ Bysmaquillage (@bysmaquillage) | 5734 abonnés | Catégories: N/A | Score engagement: 5.1796
+2026-05-15 16:11:05,803 [INFO] (42/50) @cosmtique.bio47
+2026-05-15 16:11:06,223 [INFO]   ✗ Région=MA ≠ FR
+2026-05-15 16:11:06,224 [INFO] (43/50) @maelys.ami
+2026-05-15 16:11:08,031 [INFO]   ✗ Trop d'abonnés (1.2M)
+2026-05-15 16:11:08,031 [INFO] (44/50) @maquillage_yasminee
+2026-05-15 16:11:08,306 [INFO]   ✗ Région=DZ ≠ FR
+2026-05-15 16:11:08,307 [INFO] (45/50) @makeupbymario
+2026-05-15 16:11:08,611 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:11:08,611 [INFO] (46/50) @3ce_global
+2026-05-15 16:11:08,961 [INFO]   ✗ Région=KR ≠ FR
+2026-05-15 16:11:08,962 [INFO] (47/50) @layallure
+2026-05-15 16:11:09,194 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:11:09,195 [INFO] (48/50) @baddiemaquillage
+2026-05-15 16:11:09,492 [INFO]   ✗ Région=GH ≠ FR
+2026-05-15 16:11:09,493 [INFO] (49/50) @celobeauteofficial
+2026-05-15 16:11:09,867 [INFO]   ✗ Région=ID ≠ FR
+2026-05-15 16:11:09,868 [INFO] (50/50) @deebhoradeebhora
+2026-05-15 16:11:10,165 [INFO]   ✗ Région=RE ≠ FR
+2026-05-15 16:11:10,374 [INFO] 
+Terminé. 1 profils valides → influenceurs.csv
+2026-05-15 16:26:39,103 [INFO] Config — Pays: FR | Followers: 5000-50000
+2026-05-15 16:26:39,103 [INFO] Catégories: toutes
+2026-05-15 16:26:39,103 [INFO] Mots-clés: ['abidjan', 'cocody']
+2026-05-15 16:26:39,103 [INFO] ====== WebDriver manager ======
+2026-05-15 16:26:39,467 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:26:39,509 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:26:39,544 [INFO] Driver [/Users/marc./.wdm/drivers/chromedriver/mac64/148.0.7778.167/chromedriver-mac-arm64/chromedriver] found in cache
+2026-05-15 16:26:41,841 [INFO] Ouverture de TikTok (https://www.tiktok.com/fr/)
+2026-05-15 16:27:00,447 [INFO] Environnement de localisation injecté.
+2026-05-15 16:27:00,449 [INFO] Recherche : 'abidjan' → https://www.tiktok.com/search/user?q=abidjan
+2026-05-15 16:27:04,227 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:27:07,945 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:27:11,207 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:27:15,268 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:27:20,311 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:27:23,699 [INFO]   Scroll #5 — 30 URLs (+20)
+2026-05-15 16:27:27,000 [INFO]   Scroll #6 — 30 URLs (+0)
+2026-05-15 16:27:30,858 [INFO]   Scroll #7 — 40 URLs (+10)
+2026-05-15 16:27:34,410 [INFO]   Scroll #8 — 50 URLs (+10)
+2026-05-15 16:27:38,149 [INFO]   Scroll #9 — 70 URLs (+20)
+2026-05-15 16:27:41,702 [INFO]   Scroll #10 — 70 URLs (+0)
+2026-05-15 16:27:45,981 [INFO]   Scroll #11 — 80 URLs (+10)
+2026-05-15 16:27:49,362 [INFO]   Scroll #12 — 80 URLs (+0)
+2026-05-15 16:27:52,958 [INFO]   Scroll #13 — 90 URLs (+10)
+2026-05-15 16:27:57,047 [INFO]   Scroll #14 — 90 URLs (+0)
+2026-05-15 16:28:02,051 [INFO]   Scroll #15 — 90 URLs (+0)
+2026-05-15 16:28:06,119 [INFO]   Scroll #16 — 90 URLs (+0)
+2026-05-15 16:28:09,989 [INFO]   Scroll #17 — 90 URLs (+0)
+2026-05-15 16:28:14,384 [INFO]   Scroll #18 — 90 URLs (+0)
+2026-05-15 16:28:18,544 [INFO] Total cumulé : 90 URLs
+2026-05-15 16:28:21,709 [INFO] Recherche : 'cocody' → https://www.tiktok.com/search/user?q=cocody
+2026-05-15 16:28:25,246 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:28:30,097 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:28:33,231 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:28:37,813 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:28:42,768 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:28:46,322 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:28:50,835 [INFO] Total cumulé : 100 URLs
+2026-05-15 16:28:55,328 [INFO] 
+──────────────────────────────────────────────────
+2026-05-15 16:28:55,330 [INFO] 100 profils à examiner (checkpoint: 59 déjà traités)
+2026-05-15 16:28:55,331 [INFO] ──────────────────────────────────────────────────
+
+2026-05-15 16:28:55,334 [INFO] (1/100) @mouadboujida8
+2026-05-15 16:28:55,786 [INFO]   ✗ Région=MA ≠ FR
+2026-05-15 16:28:55,786 [INFO] (2/100) @nangaraba2251
+2026-05-15 16:28:56,098 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:56,098 [INFO] (3/100) @stephyjeph
+2026-05-15 16:28:56,407 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:56,408 [INFO] (4/100) @bellashopabidjan01
+2026-05-15 16:28:57,129 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:57,129 [INFO] (5/100) @minef.rci
+2026-05-15 16:28:57,488 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:57,488 [INFO] (6/100) @hawa.tamba.abidja
+2026-05-15 16:28:57,731 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:57,731 [INFO] (7/100) @passionpatisserieabidjan
+2026-05-15 16:28:58,087 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:58,088 [INFO] (8/100) @shoppingabidjan
+2026-05-15 16:28:58,360 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:58,361 [INFO] (9/100) @esma_abidjan_officiel
+2026-05-15 16:28:58,690 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:28:58,691 [INFO] (10/100) @abidjanzone
+2026-05-15 16:29:00,871 [INFO]   ✗ Trop d'abonnés (351.2K)
+2026-05-15 16:29:00,872 [INFO] (11/100) @horvatska.povijest1941
+2026-05-15 16:29:01,166 [INFO]   ✗ Région=HR ≠ FR
+2026-05-15 16:29:01,166 [INFO] (12/100) @comit.miss.cocody
+2026-05-15 16:29:01,680 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:01,681 [INFO] (13/100) @eulis.hotel.abidjan
+2026-05-15 16:29:02,038 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:02,041 [INFO] (14/100) @kabid6788
+2026-05-15 16:29:02,384 [INFO]   ✗ Région=DE ≠ FR
+2026-05-15 16:29:02,384 [INFO] (15/100) @abidjanshopping
+2026-05-15 16:29:02,683 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:02,683 [INFO] (16/100) @c.cocody
+2026-05-15 16:29:04,764 [INFO]   ✗ Abonnés insuffisants (44)
+2026-05-15 16:29:04,764 [INFO] (17/100) @rtiofficiel
+2026-05-15 16:29:05,179 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:05,179 [INFO] (18/100) @spafactoryabidjan
+2026-05-15 16:29:05,589 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:05,590 [INFO] (19/100) @abidjanmoules225
+2026-05-15 16:29:05,918 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:05,918 [INFO] (20/100) @abidjan0019
+2026-05-15 16:29:06,221 [INFO]   ✗ Région=PK ≠ FR
+2026-05-15 16:29:06,222 [INFO] (21/100) @cocody04
+2026-05-15 16:29:06,532 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:06,533 [INFO] (22/100) @nyabidjan
+2026-05-15 16:29:06,848 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:06,849 [INFO] (23/100) @benedict_kalengay
+2026-05-15 16:29:07,124 [INFO]   ✗ Région=CD ≠ FR
+2026-05-15 16:29:07,125 [INFO] (24/100) @wallace_abidjan
+2026-05-15 16:29:07,541 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:07,541 [INFO] (25/100) @valentintagro775
+2026-05-15 16:29:07,851 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:07,852 [INFO] (26/100) @chillout_abidjan
+2026-05-15 16:29:08,321 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:08,322 [INFO] (27/100) @bizi.abidjan3
+2026-05-15 16:29:08,710 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:08,710 [INFO] (28/100) @aureltattoo.officiel
+2026-05-15 16:29:10,677 [INFO]   ✗ Trop d'abonnés (7.7M)
+2026-05-15 16:29:10,679 [INFO] (29/100) @abidjan.bizi
+2026-05-15 16:29:10,953 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:10,953 [INFO] (30/100) @lecouturier_abidjanais
+2026-05-15 16:29:11,204 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:11,205 [INFO] (31/100) @abidjan.bizzi5
+2026-05-15 16:29:11,508 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:11,509 [INFO] (32/100) @hairfactoryabidjan
+2026-05-15 16:29:11,797 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:11,797 [INFO] (33/100) @abidjan.bizzi8
+2026-05-15 16:29:12,076 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:12,076 [INFO] (34/100) @abidjanabid04
+2026-05-15 16:29:12,517 [INFO]   ✗ Région=AE ≠ FR
+2026-05-15 16:29:12,518 [INFO] (35/100) @le_before_abidjan
+2026-05-15 16:29:12,875 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:12,876 [INFO] (36/100) @luxury_home_abidjan
+2026-05-15 16:29:13,164 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:13,165 [INFO] (37/100) @abidjan.bizzi6
+2026-05-15 16:29:13,558 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:13,558 [INFO] (38/100) @paradisia4
+2026-05-15 16:29:13,915 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:13,916 [INFO] (39/100) @lesliehair1
+2026-05-15 16:29:14,240 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:14,241 [INFO] (40/100) @abid.g679
+2026-05-15 16:29:14,612 [INFO]   ✗ Région=PK ≠ FR
+2026-05-15 16:29:14,612 [INFO] (41/100) @abidjan.bizzi0
+2026-05-15 16:29:14,907 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:14,908 [INFO] (42/100) @thierryagoua
+2026-05-15 16:29:15,160 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:15,161 [INFO] (43/100) @cocody222
+2026-05-15 16:29:15,510 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:29:15,510 [INFO] (44/100) @abidjan4717
+2026-05-15 16:29:15,857 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:15,858 [INFO] (45/100) @abidjan.me.plait
+2026-05-15 16:29:16,186 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:16,186 [INFO] (46/100) @pulsecotedivoire
+2026-05-15 16:29:16,517 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:16,518 [INFO] (47/100) @wairinafrica
+2026-05-15 16:29:18,481 [INFO]   ✗ Abonnés insuffisants (1316)
+2026-05-15 16:29:18,482 [INFO] (48/100) @abidjan
+2026-05-15 16:29:18,815 [INFO]   ✗ Région=N/A ≠ FR
+2026-05-15 16:29:18,815 [INFO] (49/100) @abidjan.bizi3
+2026-05-15 16:29:19,234 [INFO]   ✗ Région=BJ ≠ FR
+2026-05-15 16:29:19,235 [INFO] (50/100) @siandoufofana
+2026-05-15 16:29:19,655 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:19,656 [INFO] (51/100) @abidjaninmotion
+2026-05-15 16:29:19,958 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:19,959 [INFO] (52/100) @lobane_motorcycle
+2026-05-15 16:29:20,283 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:20,283 [INFO] (53/100) @hecabidjan33
+2026-05-15 16:29:20,733 [INFO]   ✗ Région=ES ≠ FR
+2026-05-15 16:29:20,733 [INFO] (54/100) @abid_jan4440
+2026-05-15 16:29:21,046 [INFO]   ✗ Région=PK ≠ FR
+2026-05-15 16:29:21,046 [INFO] (55/100) @cocodi_gn
+2026-05-15 16:29:21,425 [INFO]   ✗ Région=GN ≠ FR
+2026-05-15 16:29:21,425 [INFO] (56/100) @wilfriedzahuiof
+2026-05-15 16:29:21,716 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:21,717 [INFO] (57/100) @akim_tatoo
+2026-05-15 16:29:21,987 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:21,988 [INFO] (58/100) @dominiqueouattara_
+2026-05-15 16:29:22,222 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:22,223 [INFO] (59/100) @maisonfaynara
+2026-05-15 16:29:24,070 [INFO]   ✗ Trop d'abonnés (2.9M)
+2026-05-15 16:29:24,070 [INFO] (60/100) @aya_robert
+2026-05-15 16:29:26,069 [INFO]   ✗ Trop d'abonnés (712.1K)
+2026-05-15 16:29:26,069 [INFO] (61/100) @abidjan6275
+2026-05-15 16:29:26,437 [INFO]   ✗ Région=BF ≠ FR
+2026-05-15 16:29:26,438 [INFO] (62/100) @rasheedatajibade
+2026-05-15 16:29:26,733 [INFO]   ✗ Région=CA ≠ FR
+2026-05-15 16:29:26,734 [INFO] (63/100) @gendarmerie_rci
+2026-05-15 16:29:27,212 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:27,216 [INFO] (64/100) @bizi.djan3
+2026-05-15 16:29:27,606 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:27,606 [INFO] (65/100) @la.villa.des.vacanciers
+2026-05-15 16:29:27,885 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:27,886 [INFO] (66/100) @weddinghampalace
+2026-05-15 16:29:28,240 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:28,240 [INFO] (67/100) @hjkn607
+2026-05-15 16:29:28,535 [INFO]   ✗ Région=GB ≠ FR
+2026-05-15 16:29:28,536 [INFO] (68/100) @cocody124
+2026-05-15 16:29:28,809 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:28,809 [INFO] (69/100) @abidjan.net
+2026-05-15 16:29:29,302 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:29,302 [INFO] (70/100) @abidjan_ya_3x_buzz10
+2026-05-15 16:29:31,327 [INFO]   ✗ Trop d'abonnés (355.1K)
+2026-05-15 16:29:31,328 [INFO] (71/100) @louer.maison
+2026-05-15 16:29:31,748 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:31,749 [INFO] (72/100) @kidsfromabidjan
+2026-05-15 16:29:32,160 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:32,161 [INFO] (73/100) @travelabidjan
+2026-05-15 16:29:34,099 [INFO]   ✓ travelabidjan (@travelabidjan) | 48.5K abonnés | Catégories: N/A | Score engagement: 15.9237
+2026-05-15 16:29:39,863 [INFO] (74/100) @israelpolice
+2026-05-15 16:29:40,317 [INFO]   ✗ Région=IL ≠ FR
+2026-05-15 16:29:40,318 [INFO] (75/100) @apsonicmotoci
+2026-05-15 16:29:40,671 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:40,674 [INFO] (76/100) @mabroukabijoux
+2026-05-15 16:29:41,074 [INFO]   ✗ Région=N/A ≠ FR
+2026-05-15 16:29:41,075 [INFO] (77/100) @rtiinfo
+2026-05-15 16:29:41,475 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:41,475 [INFO] (78/100) @laserpark.abidjan
+2026-05-15 16:29:41,890 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:41,891 [INFO] (79/100) @soho_abidjan
+2026-05-15 16:29:42,172 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:42,172 [INFO] (80/100) @gouvciofficiel
+2026-05-15 16:29:42,535 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:42,536 [INFO] (81/100) @abidjanbizi
+2026-05-15 16:29:42,786 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:42,786 [INFO] (82/100) @abidjanvibes
+2026-05-15 16:29:43,056 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:43,057 [INFO] (83/100) @queendressingabidjan
+2026-05-15 16:29:43,290 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:43,290 [INFO] (84/100) @grossistebebeabidjan
+2026-05-15 16:29:43,542 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:43,543 [INFO] (85/100) @goyaresorts.abidjan
+2026-05-15 16:29:45,615 [INFO]   ✗ Abonnés insuffisants (792)
+2026-05-15 16:29:45,615 [INFO] (86/100) @abidjan8412
+2026-05-15 16:29:46,074 [INFO]   ✗ Région=AO ≠ FR
+2026-05-15 16:29:46,074 [INFO] (87/100) @boutique.parisabidjan
+2026-05-15 16:29:46,465 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:46,466 [INFO] (88/100) @yuminlaochen
+2026-05-15 16:29:46,776 [INFO]   ✗ Région=MO ≠ FR
+2026-05-15 16:29:46,777 [INFO] (89/100) @autone
+2026-05-15 16:29:47,158 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:47,158 [INFO] (90/100) @abidjan7624
+2026-05-15 16:29:47,558 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:47,559 [INFO] (91/100) @lamontagnedesoliviers
+2026-05-15 16:29:47,921 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:47,922 [INFO] (92/100) @jp_service_abidjan
+2026-05-15 16:29:48,358 [INFO]   ✗ Région=ML ≠ FR
+2026-05-15 16:29:48,358 [INFO] (93/100) @rk_residence_abidjan
+2026-05-15 16:29:48,726 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:48,726 [INFO] (94/100) @abidkhan53433
+2026-05-15 16:29:48,960 [INFO]   ✗ Région=US ≠ FR
+2026-05-15 16:29:48,961 [INFO] (95/100) @abidjan.bizzi
+2026-05-15 16:29:49,215 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:49,215 [INFO] (96/100) @comanche.diner.abidjan
+2026-05-15 16:29:49,487 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:49,488 [INFO] (97/100) @sirakelen.onewey338
+2026-05-15 16:29:49,859 [INFO]   ✗ Région=ML ≠ FR
+2026-05-15 16:29:49,860 [INFO] (98/100) @the_bank_abidjan
+2026-05-15 16:29:50,265 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:50,265 [INFO] (99/100) @ahuifaveurdedieu
+2026-05-15 16:29:50,576 [INFO]   ✗ Région=CI ≠ FR
+2026-05-15 16:29:50,576 [INFO] (100/100) @abidjan.cte.divoi51
+2026-05-15 16:29:50,876 [INFO]   ✗ Région=MR ≠ FR
+2026-05-15 16:29:51,251 [INFO] 
+Terminé. 2 profils valides → influenceurs.csv
+2026-05-15 16:30:39,600 [INFO] Config — Pays: CI | Followers: 5000-100000
+2026-05-15 16:30:39,601 [INFO] Catégories: toutes
+2026-05-15 16:30:39,601 [INFO] Mots-clés: ['abidjan', 'cocody']
+2026-05-15 16:30:39,601 [INFO] ====== WebDriver manager ======
+2026-05-15 16:30:39,880 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:30:39,918 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:30:39,961 [INFO] Driver [/Users/marc./.wdm/drivers/chromedriver/mac64/148.0.7778.167/chromedriver-mac-arm64/chromedriver] found in cache
+2026-05-15 16:30:41,755 [INFO] Ouverture de TikTok (https://www.tiktok.com/fr/)
+2026-05-15 16:30:53,516 [INFO] 
+Terminé. 2 profils valides → influenceurs.csv
+2026-05-15 16:31:42,560 [INFO] Config — Pays: CI | Followers: 5000-100000
+2026-05-15 16:31:42,560 [INFO] Catégories: toutes
+2026-05-15 16:31:42,560 [INFO] Mots-clés: ['abidjan', 'cocody']
+2026-05-15 16:31:42,560 [INFO] ====== WebDriver manager ======
+2026-05-15 16:31:42,815 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:31:42,883 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:31:43,005 [INFO] Driver [/Users/marc./.wdm/drivers/chromedriver/mac64/148.0.7778.167/chromedriver-mac-arm64/chromedriver] found in cache
+2026-05-15 16:31:44,522 [INFO] Ouverture de TikTok (https://www.tiktok.com/fr/)
+2026-05-15 16:32:04,754 [INFO] Environnement de localisation injecté.
+2026-05-15 16:32:04,755 [INFO] Recherche : 'abidjan' → https://www.tiktok.com/search/user?q=abidjan
+2026-05-15 16:32:08,452 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:32:12,090 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:32:16,925 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:32:20,229 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:32:25,121 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:32:29,296 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:32:33,671 [INFO] Total cumulé : 10 URLs
+2026-05-15 16:32:36,484 [INFO] Recherche : 'cocody' → https://www.tiktok.com/search/user?q=cocody
+2026-05-15 16:32:40,091 [INFO]   Scroll #0 — 10 URLs (+10)
+2026-05-15 16:32:44,139 [INFO]   Scroll #1 — 10 URLs (+0)
+2026-05-15 16:32:48,459 [INFO]   Scroll #2 — 10 URLs (+0)
+2026-05-15 16:32:52,263 [INFO]   Scroll #3 — 10 URLs (+0)
+2026-05-15 16:32:56,239 [INFO]   Scroll #4 — 10 URLs (+0)
+2026-05-15 16:32:59,637 [INFO]   Scroll #5 — 10 URLs (+0)
+2026-05-15 16:33:03,099 [INFO] Total cumulé : 20 URLs
+2026-05-15 16:33:07,268 [INFO] 
+──────────────────────────────────────────────────
+2026-05-15 16:33:07,268 [INFO] 20 profils à examiner (checkpoint: 159 déjà traités)
+2026-05-15 16:33:07,268 [INFO] ──────────────────────────────────────────────────
+
+2026-05-15 16:33:07,432 [INFO] 
+Terminé. 2 profils valides → influenceurs.csv
+2026-05-15 16:44:08,133 [INFO] Config — Pays: FR | Followers: 5000-50000
+2026-05-15 16:44:08,133 [INFO] Catégories: toutes
+2026-05-15 16:44:08,133 [INFO] Mots-clés: ['beaute', 'maquillage', 'skincare', 'makeup', 'cosmétique']
+2026-05-15 16:44:08,133 [INFO] ====== WebDriver manager ======
+2026-05-15 16:44:08,420 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:44:08,513 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:44:08,546 [INFO] Driver [/Users/marc./.wdm/drivers/chromedriver/mac64/148.0.7778.167/chromedriver-mac-arm64/chromedriver] found in cache
+2026-05-15 16:44:09,988 [INFO] Ouverture de TikTok (https://www.tiktok.com/fr/)
+2026-05-15 16:44:28,828 [INFO] Environnement de localisation injecté.
+2026-05-15 16:44:28,829 [INFO] Recherche vidéo : 'beaute' → https://www.tiktok.com/search/video?q=beaute
+2026-05-15 16:44:32,569 [INFO]   Scroll #0 — 0 profils (+0)
+2026-05-15 16:44:36,677 [INFO]   Scroll #1 — 0 profils (+0)
+2026-05-15 16:44:40,761 [INFO]   Scroll #2 — 0 profils (+0)
+2026-05-15 16:44:44,207 [INFO]   Scroll #3 — 12 profils (+12)
+2026-05-15 16:44:48,311 [INFO]   Scroll #4 — 12 profils (+0)
+2026-05-15 16:44:52,525 [INFO]   Scroll #5 — 12 profils (+0)
+2026-05-15 16:44:56,568 [INFO]   Scroll #6 — 12 profils (+0)
+2026-05-15 16:44:59,662 [INFO]   Scroll #7 — 12 profils (+0)
+2026-05-15 16:45:03,623 [INFO]   Scroll #8 — 12 profils (+0)
+2026-05-15 16:45:08,114 [INFO] Total cumulé : 12 profils
+2026-05-15 16:45:12,026 [INFO] Recherche vidéo : 'maquillage' → https://www.tiktok.com/search/video?q=maquillage
+2026-05-15 16:45:15,740 [INFO]   Scroll #0 — 16 profils (+16)
+2026-05-15 16:45:19,819 [INFO]   Scroll #1 — 16 profils (+0)
+2026-05-15 16:45:23,626 [INFO]   Scroll #2 — 16 profils (+0)
+2026-05-15 16:45:27,920 [INFO]   Scroll #3 — 16 profils (+0)
+2026-05-15 16:45:31,368 [INFO]   Scroll #4 — 16 profils (+0)
+2026-05-15 16:45:36,115 [INFO]   Scroll #5 — 16 profils (+0)
+2026-05-15 16:45:40,070 [INFO] Total cumulé : 28 profils
+2026-05-15 16:45:42,800 [INFO] Recherche vidéo : 'skincare' → https://www.tiktok.com/search/video?q=skincare
+2026-05-15 16:45:46,506 [INFO]   Scroll #0 — 26 profils (+26)
+2026-05-15 16:45:51,245 [INFO]   Scroll #1 — 26 profils (+0)
+2026-05-15 16:45:56,006 [INFO]   Scroll #2 — 26 profils (+0)
+2026-05-15 16:46:00,723 [INFO]   Scroll #3 — 26 profils (+0)
+2026-05-15 16:46:04,449 [INFO]   Scroll #4 — 26 profils (+0)
+2026-05-15 16:46:07,564 [INFO]   Scroll #5 — 26 profils (+0)
+2026-05-15 16:46:11,723 [INFO] Total cumulé : 52 profils
+2026-05-15 16:46:14,478 [INFO] Recherche vidéo : 'makeup' → https://www.tiktok.com/search/video?q=makeup
+2026-05-15 16:46:18,051 [INFO]   Scroll #0 — 16 profils (+16)
+2026-05-15 16:46:21,209 [INFO]   Scroll #1 — 16 profils (+0)
+2026-05-15 16:46:25,967 [INFO]   Scroll #2 — 16 profils (+0)
+2026-05-15 16:46:29,910 [INFO]   Scroll #3 — 16 profils (+0)
+2026-05-15 16:46:33,367 [INFO]   Scroll #4 — 16 profils (+0)
+2026-05-15 16:46:38,370 [INFO]   Scroll #5 — 16 profils (+0)
+2026-05-15 16:46:41,609 [INFO] Total cumulé : 64 profils
+2026-05-15 16:46:46,247 [INFO] Recherche vidéo : 'cosmétique' → https://www.tiktok.com/search/video?q=cosmétique
+2026-05-15 16:46:49,796 [INFO]   Scroll #0 — 12 profils (+12)
+2026-05-15 16:46:53,009 [INFO]   Scroll #1 — 12 profils (+0)
+2026-05-15 16:46:56,860 [INFO]   Scroll #2 — 12 profils (+0)
+2026-05-15 16:47:01,232 [INFO]   Scroll #3 — 12 profils (+0)
+2026-05-15 16:47:05,853 [INFO]   Scroll #4 — 12 profils (+0)
+2026-05-15 16:47:09,170 [INFO]   Scroll #5 — 12 profils (+0)
+2026-05-15 16:47:13,169 [INFO] Total cumulé : 76 profils
+2026-05-15 16:47:16,031 [INFO] 
+──────────────────────────────────────────────────
+2026-05-15 16:47:16,033 [INFO] 76 profils à examiner (checkpoint: 159 déjà traités)
+2026-05-15 16:47:16,033 [INFO] ──────────────────────────────────────────────────
+
+2026-05-15 16:47:16,035 [INFO] (1/76) @7617093551368834326
+2026-05-15 16:47:32,997 [WARNING] Profil inaccessible : https://www.tiktok.com/@lozlee13/video/7617093551368834326
+2026-05-15 16:47:33,002 [INFO] (2/76) @myrabelleeee_
+2026-05-15 16:47:34,962 [INFO]   ✗ Trop d'abonnés (421.9K)
+2026-05-15 16:47:34,963 [INFO] (3/76) @7617956603341409558
+2026-05-15 16:47:51,648 [WARNING] Profil inaccessible : https://www.tiktok.com/@intrvbl._92z/video/7617956603341409558
+2026-05-15 16:47:51,649 [INFO] (4/76) @7488301952065948950
+2026-05-15 16:48:08,325 [WARNING] Profil inaccessible : https://www.tiktok.com/@anaiswairyy/video/7488301952065948950
+2026-05-15 16:48:08,329 [INFO] (5/76) @coachingbyfm
+2026-05-15 16:48:10,317 [INFO]   ✗ Trop d'abonnés (66.2K)
+2026-05-15 16:48:10,317 [INFO] (6/76) @7586732854114077974
+2026-05-15 16:48:26,556 [WARNING] Profil inaccessible : https://www.tiktok.com/@mathildehofmann2/video/7586732854114077974
+2026-05-15 16:48:26,558 [INFO] (7/76) @7583740839415778582
+2026-05-15 16:48:43,161 [WARNING] Profil inaccessible : https://www.tiktok.com/@sisssyam/video/7583740839415778582
+2026-05-15 16:48:43,169 [INFO] (8/76) @iamshanice.k
+2026-05-15 16:48:45,415 [INFO]   ✓ SHANICE (@iamshanice.k) | 7827 abonnés | Catégories: N/A | Score engagement: 100.5111
+2026-05-15 16:48:53,324 [INFO] (9/76) @7611599692006362370
+2026-05-15 16:49:01,571 [INFO] 
+Interruption manuelle — progression sauvegardée.
+2026-05-15 16:49:01,572 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/e3b0e704b07fc8a0655e344d167ae75d
+2026-05-15 16:49:01,575 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56168): Failed to establish a new connection: [Errno 61] Connection refused")': /session/e3b0e704b07fc8a0655e344d167ae75d
+2026-05-15 16:49:01,576 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56168): Failed to establish a new connection: [Errno 61] Connection refused")': /session/e3b0e704b07fc8a0655e344d167ae75d
+2026-05-15 16:49:01,579 [INFO] 
+Terminé. 3 profils valides → influenceurs.csv
+2026-05-15 16:53:53,293 [INFO] Pays : CI
+2026-05-15 16:53:53,293 [INFO] Locale : fr-CI
+2026-05-15 16:53:53,293 [INFO] Followers : 5000 - 100000
+2026-05-15 16:53:53,293 [INFO] Score pays minimum : 2
+2026-05-15 16:53:53,293 [INFO] Catégories : toutes
+2026-05-15 16:53:53,293 [INFO] Hashtags : ['cotedivoire', 'coteivoire', 'cotedivoire🇨🇮', 'abidjan', 'abidjan225', '225', 'babi', 'ivoirien', 'ivoirienne', 'ivoiriens', 'yopougon', 'cocody', 'marcory', 'plateau', 'treichville']...
+2026-05-15 16:53:53,293 [INFO] Mots-clés : ["côte d'ivoire", 'cote d ivoire', 'cotedivoire', 'abidjan', '225', 'babi', 'ivoirien', 'ivoirienne', 'yopougon', 'cocody', 'bouaké', 'bouake', 'marcory', 'plateau', 'treichville']...
+2026-05-15 16:53:53,293 [INFO] ====== WebDriver manager ======
+2026-05-15 16:53:53,588 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:53:53,670 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 16:53:53,706 [INFO] Driver [/Users/marc./.wdm/drivers/chromedriver/mac64/148.0.7778.167/chromedriver-mac-arm64/chromedriver] found in cache
+2026-05-15 16:53:55,252 [INFO] Ouverture TikTok : https://www.tiktok.com/fr/
+2026-05-15 16:54:03,554 [INFO] Recherche vidéos : #cotedivoire → https://www.tiktok.com/tag/cotedivoire
+2026-05-15 16:54:09,190 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 16:54:14,592 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 16:54:20,038 [INFO]   Scroll 3/18 — créateurs=76 (+76)
+2026-05-15 16:54:24,072 [INFO]   Scroll 4/18 — créateurs=105 (+29)
+2026-05-15 16:54:27,920 [INFO]   Scroll 5/18 — créateurs=126 (+21)
+2026-05-15 16:54:31,924 [INFO] Total candidats cumulés : 126
+2026-05-15 16:54:35,677 [INFO] Recherche vidéos : #coteivoire → https://www.tiktok.com/tag/coteivoire
+2026-05-15 16:54:41,279 [INFO]   Scroll 1/18 — créateurs=71 (+71)
+2026-05-15 16:54:45,139 [INFO]   Scroll 2/18 — créateurs=101 (+30)
+2026-05-15 16:54:48,802 [INFO]   Scroll 3/18 — créateurs=124 (+23)
+2026-05-15 16:54:52,474 [INFO] Total candidats cumulés : 198
+2026-05-15 16:54:55,595 [INFO] Recherche vidéos : #cotedivoire🇨🇮 → https://www.tiktok.com/tag/cotedivoire%F0%9F%87%A8%F0%9F%87%AE
+2026-05-15 16:55:01,149 [INFO]   Scroll 1/18 — créateurs=78 (+78)
+2026-05-15 16:55:06,723 [INFO]   Scroll 2/18 — créateurs=107 (+29)
+2026-05-15 16:55:10,225 [INFO]   Scroll 3/18 — créateurs=133 (+26)
+2026-05-15 16:55:14,612 [INFO] Total candidats cumulés : 229
+2026-05-15 16:55:17,675 [INFO] Recherche vidéos : #abidjan → https://www.tiktok.com/tag/abidjan
+2026-05-15 16:55:23,310 [INFO]   Scroll 1/18 — créateurs=62 (+62)
+2026-05-15 16:55:28,102 [INFO]   Scroll 2/18 — créateurs=90 (+28)
+2026-05-15 16:55:31,394 [INFO]   Scroll 3/18 — créateurs=112 (+22)
+2026-05-15 16:55:36,658 [INFO]   Scroll 4/18 — créateurs=146 (+34)
+2026-05-15 16:55:39,885 [INFO] Total candidats cumulés : 340
+2026-05-15 16:55:42,282 [INFO] Recherche vidéos : #abidjan225 → https://www.tiktok.com/tag/abidjan225
+2026-05-15 16:55:47,962 [INFO]   Scroll 1/18 — créateurs=65 (+65)
+2026-05-15 16:55:52,190 [INFO]   Scroll 2/18 — créateurs=91 (+26)
+2026-05-15 16:55:56,556 [INFO]   Scroll 3/18 — créateurs=107 (+16)
+2026-05-15 16:56:02,015 [INFO]   Scroll 4/18 — créateurs=133 (+26)
+2026-05-15 16:56:07,322 [INFO] Total candidats cumulés : 410
+2026-05-15 16:56:11,336 [INFO] Recherche vidéos : #225 → https://www.tiktok.com/tag/225
+2026-05-15 16:56:17,019 [INFO]   Scroll 1/18 — créateurs=84 (+84)
+2026-05-15 16:56:21,147 [INFO]   Scroll 2/18 — créateurs=116 (+32)
+2026-05-15 16:56:24,356 [INFO]   Scroll 3/18 — créateurs=148 (+32)
+2026-05-15 16:56:28,456 [INFO] Total candidats cumulés : 553
+2026-05-15 16:56:30,080 [INFO] Interruption manuelle — progression sauvegardée.
+2026-05-15 16:56:30,084 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/2f80f383936e59cd2840da3609a21f15
+2026-05-15 16:56:30,085 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56509): Failed to establish a new connection: [Errno 61] Connection refused")': /session/2f80f383936e59cd2840da3609a21f15
+2026-05-15 16:56:30,086 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=56509): Failed to establish a new connection: [Errno 61] Connection refused")': /session/2f80f383936e59cd2840da3609a21f15
+2026-05-15 16:56:30,087 [INFO] Terminé : 0 profils valides → influenceurs_ci.csv
+2026-05-15 17:00:43,797 [INFO] Pays : CI
+2026-05-15 17:00:43,797 [INFO] Locale : fr-CI
+2026-05-15 17:00:43,797 [INFO] Followers : 5000 - 200000
+2026-05-15 17:00:43,797 [INFO] Score pays minimum : 2
+2026-05-15 17:00:43,798 [INFO] Catégories : toutes
+2026-05-15 17:00:43,798 [INFO] Hashtags : ['cotedivoire', 'coteivoire', 'cotedivoire🇨🇮', 'abidjan', 'abidjan225', '225', 'babi', 'ivoirien', 'ivoirienne', 'ivoiriens', 'yopougon', 'cocody', 'marcory', 'plateau', 'treichville']...
+2026-05-15 17:00:43,798 [INFO] Mots-clés : ["côte d'ivoire", 'cote d ivoire', 'cotedivoire', 'abidjan', '225', 'babi', 'ivoirien', 'ivoirienne', 'yopougon', 'cocody', 'bouaké', 'bouake', 'marcory', 'plateau', 'treichville']...
+2026-05-15 17:00:43,798 [INFO] ====== WebDriver manager ======
+2026-05-15 17:00:44,111 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 17:00:44,195 [INFO] Get LATEST chromedriver version for google-chrome
+2026-05-15 17:00:44,249 [INFO] Driver [/Users/marc./.wdm/drivers/chromedriver/mac64/148.0.7778.167/chromedriver-mac-arm64/chromedriver] found in cache
+2026-05-15 17:00:45,945 [INFO] Ouverture TikTok : https://www.tiktok.com/fr/
+2026-05-15 17:00:54,156 [INFO] Recherche vidéos : #cotedivoire → https://www.tiktok.com/tag/cotedivoire
+2026-05-15 17:00:59,764 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:01:04,940 [INFO]   Scroll 2/18 — créateurs=71 (+71)
+2026-05-15 17:01:08,147 [INFO]   Scroll 3/18 — créateurs=103 (+32)
+2026-05-15 17:01:11,406 [INFO]   Scroll 4/18 — créateurs=130 (+27)
+2026-05-15 17:01:14,700 [INFO] Total candidats cumulés : 130
+2026-05-15 17:01:17,662 [INFO] Recherche vidéos : #coteivoire → https://www.tiktok.com/tag/coteivoire
+2026-05-15 17:01:23,337 [INFO]   Scroll 1/18 — créateurs=72 (+72)
+2026-05-15 17:01:28,035 [INFO]   Scroll 2/18 — créateurs=106 (+34)
+2026-05-15 17:01:31,654 [INFO]   Scroll 3/18 — créateurs=129 (+23)
+2026-05-15 17:01:35,536 [INFO] Total candidats cumulés : 198
+2026-05-15 17:01:40,034 [INFO] Recherche vidéos : #cotedivoire🇨🇮 → https://www.tiktok.com/tag/cotedivoire%F0%9F%87%A8%F0%9F%87%AE
+2026-05-15 17:01:45,976 [INFO]   Scroll 1/18 — créateurs=83 (+83)
+2026-05-15 17:01:49,863 [INFO]   Scroll 2/18 — créateurs=110 (+27)
+2026-05-15 17:01:55,146 [INFO]   Scroll 3/18 — créateurs=132 (+22)
+2026-05-15 17:01:59,088 [INFO] Total candidats cumulés : 229
+2026-05-15 17:02:01,481 [INFO] Recherche vidéos : #abidjan → https://www.tiktok.com/tag/abidjan
+2026-05-15 17:02:07,092 [INFO]   Scroll 1/18 — créateurs=71 (+71)
+2026-05-15 17:02:10,255 [INFO]   Scroll 2/18 — créateurs=92 (+21)
+2026-05-15 17:02:13,483 [INFO]   Scroll 3/18 — créateurs=117 (+25)
+2026-05-15 17:02:17,333 [INFO]   Scroll 4/18 — créateurs=150 (+33)
+2026-05-15 17:02:21,831 [INFO] Total candidats cumulés : 342
+2026-05-15 17:02:25,395 [INFO] Recherche vidéos : #abidjan225 → https://www.tiktok.com/tag/abidjan225
+2026-05-15 17:02:31,066 [INFO]   Scroll 1/18 — créateurs=66 (+66)
+2026-05-15 17:02:34,421 [INFO]   Scroll 2/18 — créateurs=92 (+26)
+2026-05-15 17:02:39,614 [INFO]   Scroll 3/18 — créateurs=106 (+14)
+2026-05-15 17:02:44,327 [INFO]   Scroll 4/18 — créateurs=130 (+24)
+2026-05-15 17:02:48,178 [INFO] Total candidats cumulés : 408
+2026-05-15 17:02:50,587 [INFO] Recherche vidéos : #225 → https://www.tiktok.com/tag/225
+2026-05-15 17:02:56,440 [INFO]   Scroll 1/18 — créateurs=59 (+59)
+2026-05-15 17:03:00,795 [INFO]   Scroll 2/18 — créateurs=115 (+56)
+2026-05-15 17:03:05,992 [INFO]   Scroll 3/18 — créateurs=146 (+31)
+2026-05-15 17:03:09,953 [INFO] Total candidats cumulés : 550
+2026-05-15 17:03:13,291 [INFO] Recherche vidéos : #babi → https://www.tiktok.com/tag/babi
+2026-05-15 17:03:18,986 [INFO]   Scroll 1/18 — créateurs=53 (+53)
+2026-05-15 17:03:22,943 [INFO]   Scroll 2/18 — créateurs=73 (+20)
+2026-05-15 17:03:26,868 [INFO]   Scroll 3/18 — créateurs=89 (+16)
+2026-05-15 17:03:31,042 [INFO]   Scroll 4/18 — créateurs=100 (+11)
+2026-05-15 17:03:36,127 [INFO]   Scroll 5/18 — créateurs=104 (+4)
+2026-05-15 17:03:39,964 [INFO]   Scroll 6/18 — créateurs=106 (+2)
+2026-05-15 17:03:43,769 [INFO]   Scroll 7/18 — créateurs=106 (+0)
+2026-05-15 17:03:47,111 [INFO]   Scroll 8/18 — créateurs=106 (+0)
+2026-05-15 17:03:51,868 [INFO]   Scroll 9/18 — créateurs=106 (+0)
+2026-05-15 17:03:56,755 [INFO]   Scroll 10/18 — créateurs=106 (+0)
+2026-05-15 17:04:00,912 [INFO]   Scroll 11/18 — créateurs=106 (+0)
+2026-05-15 17:04:04,649 [INFO] Total candidats cumulés : 656
+2026-05-15 17:04:06,784 [INFO] Recherche vidéos : #ivoirien → https://www.tiktok.com/tag/ivoirien
+2026-05-15 17:04:12,623 [INFO]   Scroll 1/18 — créateurs=69 (+69)
+2026-05-15 17:04:16,344 [INFO]   Scroll 2/18 — créateurs=100 (+31)
+2026-05-15 17:04:19,985 [INFO]   Scroll 3/18 — créateurs=132 (+32)
+2026-05-15 17:04:24,877 [INFO] Total candidats cumulés : 737
+2026-05-15 17:04:27,493 [INFO] Recherche vidéos : #ivoirienne → https://www.tiktok.com/tag/ivoirienne
+2026-05-15 17:04:33,076 [INFO]   Scroll 1/18 — créateurs=84 (+84)
+2026-05-15 17:04:38,414 [INFO]   Scroll 2/18 — créateurs=113 (+29)
+2026-05-15 17:04:41,738 [INFO]   Scroll 3/18 — créateurs=139 (+26)
+2026-05-15 17:04:45,297 [INFO] Total candidats cumulés : 837
+2026-05-15 17:04:49,258 [INFO] Recherche vidéos : #ivoiriens → https://www.tiktok.com/tag/ivoiriens
+2026-05-15 17:04:54,885 [INFO]   Scroll 1/18 — créateurs=73 (+73)
+2026-05-15 17:04:59,954 [INFO]   Scroll 2/18 — créateurs=100 (+27)
+2026-05-15 17:05:03,558 [INFO]   Scroll 3/18 — créateurs=130 (+30)
+2026-05-15 17:05:08,875 [INFO] Total candidats cumulés : 875
+2026-05-15 17:05:12,440 [INFO] Recherche vidéos : #yopougon → https://www.tiktok.com/tag/yopougon
+2026-05-15 17:05:18,147 [INFO]   Scroll 1/18 — créateurs=53 (+53)
+2026-05-15 17:05:21,515 [INFO]   Scroll 2/18 — créateurs=76 (+23)
+2026-05-15 17:05:25,002 [INFO]   Scroll 3/18 — créateurs=102 (+26)
+2026-05-15 17:05:29,712 [INFO]   Scroll 4/18 — créateurs=128 (+26)
+2026-05-15 17:05:32,923 [INFO] Total candidats cumulés : 990
+2026-05-15 17:05:37,257 [INFO] Recherche vidéos : #cocody → https://www.tiktok.com/tag/cocody
+2026-05-15 17:05:42,925 [INFO]   Scroll 1/18 — créateurs=56 (+56)
+2026-05-15 17:05:47,318 [INFO]   Scroll 2/18 — créateurs=84 (+28)
+2026-05-15 17:05:50,465 [INFO]   Scroll 3/18 — créateurs=102 (+18)
+2026-05-15 17:05:55,203 [INFO]   Scroll 4/18 — créateurs=131 (+29)
+2026-05-15 17:06:00,199 [INFO] Total candidats cumulés : 1096
+2026-05-15 17:06:03,312 [INFO] Recherche vidéos : #marcory → https://www.tiktok.com/tag/marcory
+2026-05-15 17:06:08,894 [INFO]   Scroll 1/18 — créateurs=61 (+61)
+2026-05-15 17:06:12,851 [INFO]   Scroll 2/18 — créateurs=91 (+30)
+2026-05-15 17:06:18,367 [INFO]   Scroll 3/18 — créateurs=116 (+25)
+2026-05-15 17:06:23,899 [INFO]   Scroll 4/18 — créateurs=140 (+24)
+2026-05-15 17:06:28,460 [INFO] Total candidats cumulés : 1209
+2026-05-15 17:06:31,670 [INFO] Recherche vidéos : #plateau → https://www.tiktok.com/tag/plateau
+2026-05-15 17:06:37,231 [INFO]   Scroll 1/18 — créateurs=57 (+57)
+2026-05-15 17:06:41,432 [INFO]   Scroll 2/18 — créateurs=81 (+24)
+2026-05-15 17:06:47,042 [INFO]   Scroll 3/18 — créateurs=110 (+29)
+2026-05-15 17:06:52,016 [INFO]   Scroll 4/18 — créateurs=137 (+27)
+2026-05-15 17:06:55,565 [INFO] Total candidats cumulés : 1342
+2026-05-15 17:06:57,676 [INFO] Recherche vidéos : #treichville → https://www.tiktok.com/tag/treichville
+2026-05-15 17:07:03,279 [INFO]   Scroll 1/18 — créateurs=52 (+52)
+2026-05-15 17:07:07,240 [INFO]   Scroll 2/18 — créateurs=76 (+24)
+2026-05-15 17:07:11,821 [INFO]   Scroll 3/18 — créateurs=91 (+15)
+2026-05-15 17:07:15,029 [INFO]   Scroll 4/18 — créateurs=119 (+28)
+2026-05-15 17:07:20,638 [INFO]   Scroll 5/18 — créateurs=142 (+23)
+2026-05-15 17:07:25,958 [INFO] Total candidats cumulés : 1463
+2026-05-15 17:07:29,629 [INFO] Recherche vidéos : #koumassi → https://www.tiktok.com/tag/koumassi
+2026-05-15 17:07:35,339 [INFO]   Scroll 1/18 — créateurs=60 (+60)
+2026-05-15 17:07:39,831 [INFO]   Scroll 2/18 — créateurs=82 (+22)
+2026-05-15 17:07:43,189 [INFO]   Scroll 3/18 — créateurs=106 (+24)
+2026-05-15 17:07:48,574 [INFO]   Scroll 4/18 — créateurs=136 (+30)
+2026-05-15 17:07:53,113 [INFO] Total candidats cumulés : 1581
+2026-05-15 17:07:56,446 [INFO] Recherche vidéos : #bouake → https://www.tiktok.com/tag/bouake
+2026-05-15 17:08:02,071 [INFO]   Scroll 1/18 — créateurs=87 (+87)
+2026-05-15 17:08:06,801 [INFO]   Scroll 2/18 — créateurs=111 (+24)
+2026-05-15 17:08:10,211 [INFO]   Scroll 3/18 — créateurs=128 (+17)
+2026-05-15 17:08:15,138 [INFO] Total candidats cumulés : 1706
+2026-05-15 17:08:19,932 [INFO] Recherche vidéos : #bassam → https://www.tiktok.com/tag/bassam
+2026-05-15 17:08:25,590 [INFO]   Scroll 1/18 — créateurs=65 (+65)
+2026-05-15 17:08:30,152 [INFO]   Scroll 2/18 — créateurs=86 (+21)
+2026-05-15 17:08:34,244 [INFO]   Scroll 3/18 — créateurs=112 (+26)
+2026-05-15 17:08:39,271 [INFO]   Scroll 4/18 — créateurs=140 (+28)
+2026-05-15 17:08:42,495 [INFO] Total candidats cumulés : 1833
+2026-05-15 17:08:45,547 [INFO] Recherche vidéos : #sanpedro → https://www.tiktok.com/tag/sanpedro
+2026-05-15 17:08:51,161 [INFO]   Scroll 1/18 — créateurs=59 (+59)
+2026-05-15 17:08:56,285 [INFO]   Scroll 2/18 — créateurs=94 (+35)
+2026-05-15 17:09:00,936 [INFO]   Scroll 3/18 — créateurs=119 (+25)
+2026-05-15 17:09:04,635 [INFO]   Scroll 4/18 — créateurs=149 (+30)
+2026-05-15 17:09:09,078 [INFO] Total candidats cumulés : 1976
+2026-05-15 17:09:13,997 [INFO] Recherche vidéos : #korhogo → https://www.tiktok.com/tag/korhogo
+2026-05-15 17:09:19,558 [INFO]   Scroll 1/18 — créateurs=58 (+58)
+2026-05-15 17:09:22,707 [INFO]   Scroll 2/18 — créateurs=75 (+17)
+2026-05-15 17:09:27,540 [INFO]   Scroll 3/18 — créateurs=99 (+24)
+2026-05-15 17:09:32,535 [INFO]   Scroll 4/18 — créateurs=121 (+22)
+2026-05-15 17:09:36,952 [INFO] Total candidats cumulés : 2085
+2026-05-15 17:09:40,519 [INFO] Recherche vidéos : #humourivoirien → https://www.tiktok.com/tag/humourivoirien
+2026-05-15 17:09:46,166 [INFO]   Scroll 1/18 — créateurs=51 (+51)
+2026-05-15 17:09:51,373 [INFO]   Scroll 2/18 — créateurs=78 (+27)
+2026-05-15 17:09:56,987 [INFO]   Scroll 3/18 — créateurs=114 (+36)
+2026-05-15 17:10:00,996 [INFO]   Scroll 4/18 — créateurs=148 (+34)
+2026-05-15 17:10:06,134 [INFO] Total candidats cumulés : 2201
+2026-05-15 17:10:08,457 [INFO] Recherche vidéos : #comedieivoirienne → https://www.tiktok.com/tag/comedieivoirienne
+2026-05-15 17:10:14,118 [INFO]   Scroll 1/18 — créateurs=64 (+64)
+2026-05-15 17:10:17,470 [INFO]   Scroll 2/18 — créateurs=84 (+20)
+2026-05-15 17:10:21,103 [INFO]   Scroll 3/18 — créateurs=106 (+22)
+2026-05-15 17:10:25,304 [INFO]   Scroll 4/18 — créateurs=127 (+21)
+2026-05-15 17:10:29,776 [INFO] Total candidats cumulés : 2265
+2026-05-15 17:10:32,314 [INFO] Recherche vidéos : #buzzivoire → https://www.tiktok.com/tag/buzzivoire
+2026-05-15 17:10:37,979 [INFO]   Scroll 1/18 — créateurs=35 (+35)
+2026-05-15 17:10:41,305 [INFO]   Scroll 2/18 — créateurs=50 (+15)
+2026-05-15 17:10:45,489 [INFO]   Scroll 3/18 — créateurs=73 (+23)
+2026-05-15 17:10:50,631 [INFO]   Scroll 4/18 — créateurs=98 (+25)
+2026-05-15 17:10:54,433 [INFO]   Scroll 5/18 — créateurs=116 (+18)
+2026-05-15 17:10:58,800 [INFO]   Scroll 6/18 — créateurs=140 (+24)
+2026-05-15 17:11:02,708 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:11:06,689 [INFO] Recherche vidéos : #tiktokci → https://www.tiktok.com/tag/tiktokci
+2026-05-15 17:11:12,355 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:11:17,549 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:11:20,899 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:11:25,401 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:11:30,847 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:11:34,234 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:11:38,417 [INFO] Recherche vidéos : #tiktokcotedivoire → https://www.tiktok.com/tag/tiktokcotedivoire
+2026-05-15 17:11:43,956 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:11:48,865 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:11:52,965 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:11:57,824 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:12:01,666 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:12:04,882 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:12:08,315 [INFO] Recherche vidéos : #businessabidjan → https://www.tiktok.com/tag/businessabidjan
+2026-05-15 17:12:13,885 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:12:19,280 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:12:23,537 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:12:28,527 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:12:32,856 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:12:36,931 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:12:41,052 [INFO] Recherche vidéos : #modeivoirienne → https://www.tiktok.com/tag/modeivoirienne
+2026-05-15 17:12:46,640 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:12:50,276 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:12:53,558 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:12:58,777 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:13:02,283 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:13:05,600 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:13:09,810 [INFO] Recherche vidéos : #cuisineivoirienne → https://www.tiktok.com/tag/cuisineivoirienne
+2026-05-15 17:13:15,377 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:13:19,324 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:13:23,888 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:13:28,410 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:13:33,192 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:13:38,470 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:13:43,209 [INFO] Recherche vidéos : #garba → https://www.tiktok.com/tag/garba
+2026-05-15 17:13:48,918 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:13:52,332 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:13:56,696 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:14:01,112 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:14:05,576 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:14:10,835 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:14:13,140 [INFO] Recherche vidéos : #attiéké → https://www.tiktok.com/tag/atti%C3%A9k%C3%A9
+2026-05-15 17:14:18,766 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:14:23,353 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:14:26,653 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:14:31,277 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:14:35,811 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:14:39,588 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:14:42,031 [INFO] Recherche vidéos : #attieke → https://www.tiktok.com/tag/attieke
+2026-05-15 17:14:47,682 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:14:51,807 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:14:55,926 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:14:59,630 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:15:03,874 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:15:06,984 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:15:09,848 [INFO] Recherche vidéos : #alloco → https://www.tiktok.com/tag/alloco
+2026-05-15 17:15:15,440 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:15:19,524 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:15:24,761 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:15:29,121 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:15:34,301 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:15:39,262 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:15:41,751 [INFO] Recherche vidéos : #foutou → https://www.tiktok.com/tag/foutou
+2026-05-15 17:15:47,329 [INFO]   Scroll 1/18 — créateurs=0 (+0)
+2026-05-15 17:15:51,537 [INFO]   Scroll 2/18 — créateurs=0 (+0)
+2026-05-15 17:15:55,315 [INFO]   Scroll 3/18 — créateurs=0 (+0)
+2026-05-15 17:15:59,064 [INFO]   Scroll 4/18 — créateurs=0 (+0)
+2026-05-15 17:16:04,176 [INFO]   Scroll 5/18 — créateurs=0 (+0)
+2026-05-15 17:16:09,529 [INFO] Total candidats cumulés : 2375
+2026-05-15 17:16:11,930 [INFO] 2375 créateurs candidats à analyser
+2026-05-15 17:16:11,962 [INFO] (1/2375) @whos.babi
+2026-05-15 17:16:16,192 [INFO]   ✗ Langue=pt ≠ fr
+2026-05-15 17:16:16,192 [INFO] (2/2375) @raphaelnesp
+2026-05-15 17:16:20,630 [INFO]   ✗ Trop d'abonnés (454600)
+2026-05-15 17:16:20,630 [INFO] (3/2375) @bigdouahouofficiel
+2026-05-15 17:16:24,831 [INFO]   ✗ Trop d'abonnés (1700000)
+2026-05-15 17:16:24,831 [INFO] (4/2375) @ciliaklass
+2026-05-15 17:16:28,812 [INFO]   ✗ Trop d'abonnés (243400)
+2026-05-15 17:16:28,813 [INFO] (5/2375) @specialdroneci
+2026-05-15 17:16:32,922 [INFO]   ✓ @specialdroneci | 9768 abonnés | score CI=29 | cats=N/A
+2026-05-15 17:16:40,193 [INFO] (6/2375) @isaac.explore
+2026-05-15 17:16:44,582 [INFO]   ✓ @isaac.explore | 105000 abonnés | score CI=24 | cats=N/A
+2026-05-15 17:16:53,279 [INFO] (7/2375) @badivoire5
+2026-05-15 17:16:57,788 [INFO]   ✗ Trop d'abonnés (684000)
+2026-05-15 17:16:57,790 [INFO] (8/2375) @lavoixdupeuplenordique
+2026-05-15 17:17:01,955 [INFO]   ✗ Trop d'abonnés (667300)
+2026-05-15 17:17:01,956 [INFO] (9/2375) @bassamdabbas
+2026-05-15 17:17:05,875 [INFO]   ✗ Langue=ro ≠ fr
+2026-05-15 17:17:05,875 [INFO] (10/2375) @allatinjacques
+2026-05-15 17:17:10,349 [INFO]   ✓ @allatinjacques | 22300 abonnés | score CI=24 | cats=N/A
+2026-05-15 17:17:18,907 [INFO] (11/2375) @bading225__
+2026-05-15 17:17:22,937 [INFO]   ✗ Trop d'abonnés (458700)
+2026-05-15 17:17:22,938 [INFO] (12/2375) @lavoixdeslives0
+2026-05-15 17:17:27,067 [INFO]   ✗ Trop d'abonnés (231700)
+2026-05-15 17:17:27,067 [INFO] (13/2375) @cleanstreet80
+2026-05-15 17:17:31,264 [INFO]   ✓ @cleanstreet80 | 26200 abonnés | score CI=23 | cats=N/A
+2026-05-15 17:17:38,119 [INFO] (14/2375) @falacha.240324
+2026-05-15 17:17:42,248 [INFO]   ✓ @falacha.240324 | 105200 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:17:47,441 [INFO] (15/2375) @buzz_ivoire68
+2026-05-15 17:17:52,072 [INFO]   ✓ @buzz_ivoire68 | 77000 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:18:00,353 [INFO] (16/2375) @yannoo_le
+2026-05-15 17:18:04,582 [INFO]   ✗ Trop d'abonnés (267000)
+2026-05-15 17:18:04,584 [INFO] (17/2375) @bad.miina
+2026-05-15 17:18:08,664 [INFO]   ✗ Trop d'abonnés (1200000)
+2026-05-15 17:18:08,665 [INFO] (18/2375) @freshinyy
+2026-05-15 17:18:12,756 [INFO]   ✓ @freshinyy | 54200 abonnés | score CI=23 | cats=N/A
+2026-05-15 17:18:20,218 [INFO] (19/2375) @225queen5
+2026-05-15 17:18:24,544 [INFO]   ✗ Trop d'abonnés (295600)
+2026-05-15 17:18:24,544 [INFO] (20/2375) @turistlens
+2026-05-15 17:18:28,538 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:18:28,539 [INFO] (21/2375) @nassoufash0
+2026-05-15 17:18:32,696 [INFO]   ✓ @nassoufash0 | 154300 abonnés | score CI=4 | cats=N/A
+2026-05-15 17:18:37,185 [INFO] (22/2375) @monsieurdago1
+2026-05-15 17:18:41,348 [INFO]   ✗ Trop d'abonnés (2000000)
+2026-05-15 17:18:41,349 [INFO] (23/2375) @logbooo
+2026-05-15 17:18:45,477 [INFO]   ✗ Trop d'abonnés (754200)
+2026-05-15 17:18:45,478 [INFO] (24/2375) @bonvivant08
+2026-05-15 17:18:49,495 [INFO]   ✗ Abonnés insuffisants (2799)
+2026-05-15 17:18:49,495 [INFO] (25/2375) @el.parino1
+2026-05-15 17:18:53,611 [INFO]   ✗ Abonnés insuffisants (3617)
+2026-05-15 17:18:53,612 [INFO] (26/2375) @splashyopougoncomplexe
+2026-05-15 17:18:57,810 [INFO]   ✗ Trop d'abonnés (242600)
+2026-05-15 17:18:57,811 [INFO] (27/2375) @shootentrue7
+2026-05-15 17:19:02,099 [INFO]   ✗ Trop d'abonnés (557600)
+2026-05-15 17:19:02,099 [INFO] (28/2375) @cotedivoire23papadeeva
+2026-05-15 17:19:06,126 [INFO]   ✓ @cotedivoire23papadeeva | 17900 abonnés | score CI=22 | cats=N/A
+2026-05-15 17:19:15,109 [INFO] (29/2375) @dramera_apple5
+2026-05-15 17:19:19,039 [INFO]   ✓ @dramera_apple5 | 9735 abonnés | score CI=4 | cats=N/A
+2026-05-15 17:19:26,149 [INFO] (30/2375) @africabuzz8
+2026-05-15 17:19:30,363 [INFO]   ✓ @africabuzz8 | 51000 abonnés | score CI=3 | cats=N/A
+2026-05-15 17:19:35,553 [INFO] (31/2375) @tfiiiiive
+2026-05-15 17:19:39,804 [INFO]   ✓ @tfiiiiive | 117600 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:19:44,375 [INFO] (32/2375) @sirakelen.onewey338
+2026-05-15 17:19:48,628 [INFO]   ✓ @sirakelen.onewey338 | 126300 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:19:56,031 [INFO] (33/2375) @humour.013
+2026-05-15 17:20:00,186 [INFO]   ✓ @humour.013 | 124600 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:20:07,166 [INFO] (34/2375) @francois.desire1
+2026-05-15 17:20:11,351 [INFO]   ✓ @francois.desire1 | 10100 abonnés | score CI=17 | cats=N/A
+2026-05-15 17:20:20,011 [INFO] (35/2375) @toutestpossible_tes
+2026-05-15 17:20:24,272 [INFO]   ✓ @toutestpossible_tes | 71300 abonnés | score CI=19 | cats=N/A
+2026-05-15 17:20:32,139 [INFO] (36/2375) @lil_asian04
+2026-05-15 17:20:36,318 [INFO]   ✓ @lil_asian04 | 77100 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:20:41,996 [INFO] (37/2375) @machettehimra
+2026-05-15 17:20:46,116 [INFO]   ✗ Trop d'abonnés (2900000)
+2026-05-15 17:20:46,117 [INFO] (38/2375) @rediffusion477
+2026-05-15 17:20:50,309 [INFO]   ✗ Abonnés insuffisants (3831)
+2026-05-15 17:20:50,310 [INFO] (39/2375) @visa.chine0
+2026-05-15 17:20:54,694 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:20:54,721 [INFO] (40/2375) @rtiinfo
+2026-05-15 17:20:59,374 [INFO]   ✗ Trop d'abonnés (1100000)
+2026-05-15 17:20:59,377 [INFO] (41/2375) @hairsbymariam
+2026-05-15 17:21:03,688 [INFO]   ✓ @hairsbymariam | 137500 abonnés | score CI=4 | cats=N/A
+2026-05-15 17:21:12,060 [INFO] (42/2375) @diaza__17
+2026-05-15 17:21:16,115 [INFO]   ✓ @diaza__17 | 54800 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:21:20,646 [INFO] (43/2375) @richdolltitiss
+2026-05-15 17:21:25,061 [INFO]   ✓ @richdolltitiss | 11700 abonnés | score CI=14 | cats=N/A
+2026-05-15 17:21:33,352 [INFO] (44/2375) @chouchoudesnana17
+2026-05-15 17:21:37,380 [INFO]   ✓ @chouchoudesnana17 | 33000 abonnés | score CI=14 | cats=N/A
+2026-05-15 17:21:44,974 [INFO] (45/2375) @dtmp.trcy
+2026-05-15 17:21:48,946 [INFO]   ✗ Abonnés insuffisants (2270)
+2026-05-15 17:21:48,947 [INFO] (46/2375) @itgsp_girls
+2026-05-15 17:21:52,901 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:21:52,901 [INFO] (47/2375) @ellagouton
+2026-05-15 17:21:57,056 [INFO]   ✓ @ellagouton | 122100 abonnés | score CI=16 | cats=N/A
+2026-05-15 17:22:04,394 [INFO] (48/2375) @daamemuscador
+2026-05-15 17:22:08,731 [INFO]   ✗ Trop d'abonnés (468900)
+2026-05-15 17:22:08,731 [INFO] (49/2375) @assinie_ghana_senegal
+2026-05-15 17:22:12,791 [INFO]   ✗ Abonnés insuffisants (0)
+2026-05-15 17:22:12,792 [INFO] (50/2375) @micro2babi
+2026-05-15 17:22:16,767 [INFO]   ✗ Trop d'abonnés (4300000)
+2026-05-15 17:22:16,767 [INFO] (51/2375) @babi_
+2026-05-15 17:22:20,947 [INFO]   ✗ Langue=pt ≠ fr
+2026-05-15 17:22:20,948 [INFO] (52/2375) @elvisjosue877
+2026-05-15 17:22:25,074 [INFO]   ✓ @elvisjosue877 | 27200 abonnés | score CI=12 | cats=N/A
+2026-05-15 17:22:30,945 [INFO] (53/2375) @ici_ont_senjaille_buzz
+2026-05-15 17:22:35,196 [INFO]   ✗ Trop d'abonnés (1100000)
+2026-05-15 17:22:35,196 [INFO] (54/2375) @julie.creator3
+2026-05-15 17:22:39,502 [INFO]   ✗ Abonnés insuffisants (768)
+2026-05-15 17:22:39,502 [INFO] (55/2375) @bassemrediffff
+2026-05-15 17:22:43,523 [INFO]   ✓ @bassemrediffff | 142500 abonnés | score CI=4 | cats=N/A
+2026-05-15 17:22:51,683 [INFO] (56/2375) @rezodesbad
+2026-05-15 17:22:55,703 [INFO]   ✓ @rezodesbad | 172500 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:23:02,313 [INFO] (57/2375) @dfaridlago
+2026-05-15 17:23:06,379 [INFO]   ✗ Trop d'abonnés (1600000)
+2026-05-15 17:23:06,380 [INFO] (58/2375) @indetronablekoro
+2026-05-15 17:23:10,427 [INFO]   ✗ Trop d'abonnés (268900)
+2026-05-15 17:23:10,432 [INFO] (59/2375) @25csaaaa
+2026-05-15 17:23:14,383 [INFO]   ✗ Trop d'abonnés (724400)
+2026-05-15 17:23:14,386 [INFO] (60/2375) @michou.capricieus21
+2026-05-15 17:23:19,032 [INFO]   ✗ Trop d'abonnés (1600000)
+2026-05-15 17:23:19,095 [INFO] (61/2375) @marie.noelle.gnammien
+2026-05-15 17:23:23,066 [INFO]   ✗ Trop d'abonnés (666200)
+2026-05-15 17:23:23,067 [INFO] (62/2375) @fawazraimi5
+2026-05-15 17:23:27,171 [INFO]   ✗ Abonnés insuffisants (846)
+2026-05-15 17:23:27,173 [INFO] (63/2375) @rama.tabitha1
+2026-05-15 17:23:31,259 [INFO]   ✗ Trop d'abonnés (632200)
+2026-05-15 17:23:31,259 [INFO] (64/2375) @bouledepoil96
+2026-05-15 17:23:35,368 [INFO]   ✓ @bouledepoil96 | 156100 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:23:41,059 [INFO] (65/2375) @alphad220
+2026-05-15 17:23:45,185 [INFO]   ✓ @alphad220 | 15500 abonnés | score CI=18 | cats=N/A
+2026-05-15 17:23:52,592 [INFO] (66/2375) @eudoxie_yao
+2026-05-15 17:23:57,308 [INFO]   ✗ Trop d'abonnés (2900000)
+2026-05-15 17:23:57,309 [INFO] (67/2375) @st_pitchegui_11
+2026-05-15 17:24:01,346 [INFO]   ✗ Trop d'abonnés (328500)
+2026-05-15 17:24:01,348 [INFO] (68/2375) @exauceeki
+2026-05-15 17:24:05,319 [INFO]   ✓ @exauceeki | 78200 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:24:11,849 [INFO] (69/2375) @anouk.grm
+2026-05-15 17:24:16,098 [INFO]   ✗ Trop d'abonnés (2200000)
+2026-05-15 17:24:16,099 [INFO] (70/2375) @coachhamond
+2026-05-15 17:24:20,321 [INFO]   ✗ Trop d'abonnés (6400000)
+2026-05-15 17:24:20,322 [INFO] (71/2375) @hermannesthtique
+2026-05-15 17:24:24,260 [INFO]   ✓ @hermannesthtique | 79800 abonnés | score CI=19 | cats=N/A
+2026-05-15 17:24:28,593 [INFO] (72/2375) @crazyvibes1000
+2026-05-15 17:24:32,707 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:24:32,708 [INFO] (73/2375) @papatoya22
+2026-05-15 17:24:36,708 [INFO]   ✗ Abonnés insuffisants (4096)
+2026-05-15 17:24:36,708 [INFO] (74/2375) @tete_2_poisson
+2026-05-15 17:24:41,154 [INFO]   ✓ @tete_2_poisson | 193300 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:24:48,834 [INFO] (75/2375) @belleciv225
+2026-05-15 17:24:52,987 [INFO]   ✗ Trop d'abonnés (272200)
+2026-05-15 17:24:52,987 [INFO] (76/2375) @bousangasolution1
+2026-05-15 17:24:57,060 [INFO]   ✗ Trop d'abonnés (2000000)
+2026-05-15 17:24:57,061 [INFO] (77/2375) @vaal_mga
+2026-05-15 17:25:01,150 [INFO]   ✓ @vaal_mga | 8995 abonnés | score CI=16 | cats=N/A
+2026-05-15 17:25:07,456 [INFO] (78/2375) @refivoir
+2026-05-15 17:25:11,517 [INFO]   ✗ Trop d'abonnés (309400)
+2026-05-15 17:25:11,517 [INFO] (79/2375) @rireagogo250
+2026-05-15 17:25:15,614 [INFO]   ✗ Trop d'abonnés (372000)
+2026-05-15 17:25:15,615 [INFO] (80/2375) @ivoircomedie
+2026-05-15 17:25:19,611 [INFO]   ✗ Trop d'abonnés (382700)
+2026-05-15 17:25:19,611 [INFO] (81/2375) @residencemeuble17
+2026-05-15 17:25:23,797 [INFO]   ✓ @residencemeuble17 | 92200 abonnés | score CI=12 | cats=N/A
+2026-05-15 17:25:29,717 [INFO] (82/2375) @cotedhistoire
+2026-05-15 17:25:33,891 [INFO]   ✗ Trop d'abonnés (245400)
+2026-05-15 17:25:33,892 [INFO] (83/2375) @marco__ry
+2026-05-15 17:25:37,865 [INFO]   ✗ Langue=es ≠ fr
+2026-05-15 17:25:37,877 [INFO] (84/2375) @homi.abj
+2026-05-15 17:25:42,243 [INFO]   ✓ @homi.abj | 36700 abonnés | score CI=4 | cats=N/A
+2026-05-15 17:25:49,178 [INFO] (85/2375) @vueduciel_
+2026-05-15 17:25:53,464 [INFO]   ✓ @vueduciel_ | 171600 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:26:00,056 [INFO] (86/2375) @koumassi_2250
+2026-05-15 17:26:04,097 [INFO]   ✗ Abonnés insuffisants (1031)
+2026-05-15 17:26:04,098 [INFO] (87/2375) @bouake.nouveau5
+2026-05-15 17:26:08,145 [INFO]   ✓ @bouake.nouveau5 | 24200 abonnés | score CI=5 | cats=N/A
+2026-05-15 17:26:16,719 [INFO] (88/2375) @zhangjiayong4
+2026-05-15 17:26:20,927 [INFO]   ✗ Abonnés insuffisants (4500)
+2026-05-15 17:26:20,927 [INFO] (89/2375) @vinciane_astrid
+2026-05-15 17:26:25,033 [INFO]   ✓ @vinciane_astrid | 51300 abonnés | score CI=8 | cats=N/A
+2026-05-15 17:26:30,463 [INFO] (90/2375) @sanpedroinfo
+2026-05-15 17:26:34,524 [INFO]   ✓ @sanpedroinfo | 7340 abonnés | score CI=8 | cats=N/A
+2026-05-15 17:26:42,475 [INFO] (91/2375) @benjolavare7
+2026-05-15 17:26:46,580 [INFO]   ✗ Trop d'abonnés (277800)
+2026-05-15 17:26:46,582 [INFO] (92/2375) @sandylah__4ever
+2026-05-15 17:26:50,566 [INFO]   ✗ Trop d'abonnés (206700)
+2026-05-15 17:26:50,567 [INFO] (93/2375) @en.ultras.gang.2
+2026-05-15 17:26:54,667 [INFO]   ✓ @en.ultras.gang.2 | 40500 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:27:01,673 [INFO] (94/2375) @willy.m86
+2026-05-15 17:27:05,737 [INFO]   ✓ @willy.m86 | 58000 abonnés | score CI=14 | cats=N/A
+2026-05-15 17:27:14,292 [INFO] (95/2375) @mhd.say
+2026-05-15 17:27:18,611 [INFO]   ✗ Trop d'abonnés (799000)
+2026-05-15 17:27:18,612 [INFO] (96/2375) @oumidemb8
+2026-05-15 17:27:22,562 [INFO]   ✓ @oumidemb8 | 36700 abonnés | score CI=14 | cats=N/A
+2026-05-15 17:27:31,131 [INFO] (97/2375) @gbairai2.02
+2026-05-15 17:27:35,217 [INFO]   ✓ @gbairai2.02 | 20600 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:27:41,737 [INFO] (98/2375) @mxwell.0
+2026-05-15 17:27:45,902 [INFO]   ✗ Abonnés insuffisants (842)
+2026-05-15 17:27:45,903 [INFO] (99/2375) @kelexiper
+2026-05-15 17:27:49,969 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:27:49,969 [INFO] (100/2375) @guibartv
+2026-05-15 17:27:54,720 [INFO]   ✗ Trop d'abonnés (255500)
+2026-05-15 17:27:54,720 [INFO] (101/2375) @misterjohann1spam
+2026-05-15 17:27:58,729 [INFO]   ✓ @misterjohann1spam | 25100 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:28:04,458 [INFO] (102/2375) @leaticia_lass1spam
+2026-05-15 17:28:08,464 [INFO]   ✓ @leaticia_lass1spam | 187300 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:28:15,147 [INFO] (103/2375) @toutoumedia
+2026-05-15 17:28:19,196 [INFO]   ✗ Trop d'abonnés (2600000)
+2026-05-15 17:28:19,196 [INFO] (104/2375) @parolier606
+2026-05-15 17:28:23,421 [INFO]   ✗ Trop d'abonnés (1200000)
+2026-05-15 17:28:23,421 [INFO] (105/2375) @cindyjn
+2026-05-15 17:28:27,441 [INFO]   ✗ Trop d'abonnés (533500)
+2026-05-15 17:28:27,442 [INFO] (106/2375) @gbairaichaud
+2026-05-15 17:28:31,431 [INFO]   ✓ @gbairaichaud | 58100 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:28:36,318 [INFO] (107/2375) @lenfant350
+2026-05-15 17:28:40,831 [INFO]   ✗ Abonnés insuffisants (1695)
+2026-05-15 17:28:40,837 [INFO] (108/2375) @freud.ae
+2026-05-15 17:28:44,890 [INFO]   ✓ @freud.ae | 21700 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:28:52,809 [INFO] (109/2375) @eye_dahh
+2026-05-15 17:28:57,273 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:28:57,277 [INFO] (110/2375) @txlerobot1
+2026-05-15 17:29:01,407 [INFO]   ✓ @txlerobot1 | 32400 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:29:05,917 [INFO] (111/2375) @momodoum0
+2026-05-15 17:29:10,409 [INFO]   ✗ Trop d'abonnés (632400)
+2026-05-15 17:29:10,410 [INFO] (112/2375) @splash.park.angre
+2026-05-15 17:29:14,631 [INFO]   ✗ Trop d'abonnés (439600)
+2026-05-15 17:29:14,632 [INFO] (113/2375) @cliquevoyage
+2026-05-15 17:29:18,711 [INFO]   ✓ @cliquevoyage | 5012 abonnés | score CI=13 | cats=N/A
+2026-05-15 17:29:24,062 [INFO] (114/2375) @abidjaninmotion
+2026-05-15 17:29:28,260 [INFO]   ✓ @abidjaninmotion | 170500 abonnés | score CI=9 | cats=N/A
+2026-05-15 17:29:34,978 [INFO] (115/2375) @maison_dro48
+2026-05-15 17:29:39,586 [INFO]   ✓ @maison_dro48 | 16100 abonnés | score CI=12 | cats=N/A
+2026-05-15 17:29:45,036 [INFO] (116/2375) @vanhouan667
+2026-05-15 17:29:49,060 [INFO]   ✓ @vanhouan667 | 65000 abonnés | score CI=19 | cats=N/A
+2026-05-15 17:29:57,827 [INFO] (117/2375) @babi21281
+2026-05-15 17:30:02,150 [INFO]   ✗ Abonnés insuffisants (417)
+2026-05-15 17:30:02,153 [INFO] (118/2375) @vibesivoire
+2026-05-15 17:30:06,212 [INFO]   ✓ @vibesivoire | 51300 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:30:11,926 [INFO] (119/2375) @king_dg5
+2026-05-15 17:30:15,998 [INFO]   ✗ Abonnés insuffisants (2607)
+2026-05-15 17:30:15,999 [INFO] (120/2375) @ismaela174mediatv
+2026-05-15 17:30:19,857 [INFO]   ✓ @ismaela174mediatv | 155500 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:30:26,161 [INFO] (121/2375) @misterbaumannspam
+2026-05-15 17:30:30,332 [INFO]   ✓ @misterbaumannspam | 165600 abonnés | score CI=7 | cats=N/A
+2026-05-15 17:30:38,554 [INFO] (122/2375) @romaleproofficiel
+2026-05-15 17:30:42,769 [INFO]   ✗ Trop d'abonnés (1000000)
+2026-05-15 17:30:42,770 [INFO] (123/2375) @omarket_ci_225
+2026-05-15 17:30:46,818 [INFO]   ✗ Abonnés insuffisants (1211)
+2026-05-15 17:30:46,819 [INFO] (124/2375) @chics.endroits
+2026-05-15 17:30:50,717 [INFO]   ✓ @chics.endroits | 130900 abonnés | score CI=5 | cats=N/A
+2026-05-15 17:30:59,286 [INFO] (125/2375) @kissbeaute
+2026-05-15 17:31:03,550 [INFO]   ✓ @kissbeaute | 18600 abonnés | score CI=4 | cats=N/A
+2026-05-15 17:31:09,023 [INFO] (126/2375) @miissouattara
+2026-05-15 17:31:13,067 [INFO]   ✗ Trop d'abonnés (221600)
+2026-05-15 17:31:13,068 [INFO] (127/2375) @aminatasylla6434
+2026-05-15 17:31:17,108 [INFO]   ✓ @aminatasylla6434 | 19100 abonnés | score CI=5 | cats=N/A
+2026-05-15 17:31:24,872 [INFO] (128/2375) @sa2lm0
+2026-05-15 17:31:29,221 [INFO]   ✓ @sa2lm0 | 10600 abonnés | score CI=4 | cats=N/A
+2026-05-15 17:31:34,696 [INFO] (129/2375) @video_drole_225
+2026-05-15 17:31:39,146 [INFO]   ✓ @video_drole_225 | 128000 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:31:45,133 [INFO] (130/2375) @humourivoirien3
+2026-05-15 17:31:49,153 [INFO]   ✗ Abonnés insuffisants (1302)
+2026-05-15 17:31:49,154 [INFO] (131/2375) @ivoirerire.com
+2026-05-15 17:31:53,053 [INFO]   ✗ Trop d'abonnés (232900)
+2026-05-15 17:31:53,054 [INFO] (132/2375) @abidjanzone
+2026-05-15 17:31:57,102 [INFO]   ✗ Trop d'abonnés (351200)
+2026-05-15 17:31:57,103 [INFO] (133/2375) @lempereur___deparis2
+2026-05-15 17:32:01,469 [INFO]   ✗ Trop d'abonnés (418300)
+2026-05-15 17:32:01,469 [INFO] (134/2375) @lagrandeteleivoirienne
+2026-05-15 17:32:05,164 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:32:05,165 [INFO] (135/2375) @mili_2_mili
+2026-05-15 17:32:09,299 [INFO]   ✓ @mili_2_mili | 82500 abonnés | score CI=7 | cats=N/A
+2026-05-15 17:32:15,653 [INFO] (136/2375) @fafabonita_
+2026-05-15 17:32:19,677 [INFO]   ✗ Abonnés insuffisants (3057)
+2026-05-15 17:32:19,679 [INFO] (137/2375) @horacledigital
+2026-05-15 17:32:23,720 [INFO]   ✓ @horacledigital | 122000 abonnés | score CI=6 | cats=N/A
+2026-05-15 17:32:27,940 [INFO] (138/2375) @drikcfootball
+2026-05-15 17:32:32,151 [INFO]   ✗ Trop d'abonnés (279400)
+2026-05-15 17:32:32,152 [INFO] (139/2375) @carrefourdubusinesss
+2026-05-15 17:32:36,210 [INFO]   ✗ Trop d'abonnés (409100)
+2026-05-15 17:32:36,211 [INFO] (140/2375) @vano2779
+2026-05-15 17:32:40,264 [INFO]   ✗ Abonnés insuffisants (383)
+2026-05-15 17:32:40,265 [INFO] (141/2375) @frk225tv
+2026-05-15 17:32:44,600 [INFO]   ✓ @frk225tv | 31700 abonnés | score CI=16 | cats=N/A
+2026-05-15 17:32:52,620 [INFO] (142/2375) @mlkco8
+2026-05-15 17:32:56,703 [INFO]   ✗ Abonnés insuffisants (1052)
+2026-05-15 17:32:56,704 [INFO] (143/2375) @vibes.waves.237
+2026-05-15 17:33:00,744 [INFO]   ✗ Abonnés insuffisants (4357)
+2026-05-15 17:33:00,745 [INFO] (144/2375) @sarahlaplusbelle02
+2026-05-15 17:33:04,749 [INFO]   ✗ Abonnés insuffisants (2918)
+2026-05-15 17:33:04,750 [INFO] (145/2375) @ulrich_jordan30
+2026-05-15 17:33:08,785 [INFO]   ✗ Trop d'abonnés (1300000)
+2026-05-15 17:33:08,787 [INFO] (146/2375) @rapkingofficiel
+2026-05-15 17:33:12,776 [INFO]   ✗ Trop d'abonnés (1400000)
+2026-05-15 17:33:12,777 [INFO] (147/2375) @actumedia225
+2026-05-15 17:33:16,929 [INFO]   ✓ @actumedia225 | 7486 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:33:23,773 [INFO] (148/2375) @uchenarawan
+2026-05-15 17:33:27,822 [INFO]   ✓ @uchenarawan | 151000 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:33:35,076 [INFO] (149/2375) @yanoush_y
+2026-05-15 17:33:39,432 [INFO]   ✓ @yanoush_y | 6383 abonnés | score CI=6 | cats=N/A
+2026-05-15 17:33:46,338 [INFO] (150/2375) @topnew009
+2026-05-15 17:33:50,488 [INFO]   ✗ Trop d'abonnés (316700)
+2026-05-15 17:33:50,490 [INFO] (151/2375) @m6info_
+2026-05-15 17:33:54,654 [INFO]   ✗ Trop d'abonnés (2300000)
+2026-05-15 17:33:54,655 [INFO] (152/2375) @eelieake
+2026-05-15 17:33:58,591 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:33:58,591 [INFO] (153/2375) @hamed_tatoo
+2026-05-15 17:34:02,681 [INFO]   ✓ @hamed_tatoo | 66000 abonnés | score CI=6 | cats=N/A
+2026-05-15 17:34:09,012 [INFO] (154/2375) @consoplus
+2026-05-15 17:34:13,215 [INFO]   ✓ @consoplus | 142800 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:34:20,898 [INFO] (155/2375) @hk7_93
+2026-05-15 17:34:24,890 [INFO]   ✗ Abonnés insuffisants (0)
+2026-05-15 17:34:24,892 [INFO] (156/2375) @mohamedlamine.29
+2026-05-15 17:34:28,938 [INFO]   ✓ @mohamedlamine.29 | 9711 abonnés | score CI=6 | cats=N/A
+2026-05-15 17:34:33,362 [INFO] (157/2375) @mazia.9
+2026-05-15 17:34:37,420 [INFO]   ✗ Abonnés insuffisants (665)
+2026-05-15 17:34:37,421 [INFO] (158/2375) @chico_officiell
+2026-05-15 17:34:41,396 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:34:41,397 [INFO] (159/2375) @insmkd
+2026-05-15 17:34:45,450 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:34:45,455 [INFO] (160/2375) @hasarbamba
+2026-05-15 17:34:49,478 [INFO]   ✓ @hasarbamba | 69600 abonnés | score CI=16 | cats=N/A
+2026-05-15 17:34:57,349 [INFO] (161/2375) @nado_225
+2026-05-15 17:35:01,467 [INFO]   ✗ Abonnés insuffisants (1935)
+2026-05-15 17:35:01,467 [INFO] (162/2375) @misscifrance
+2026-05-15 17:35:05,565 [INFO]   ✓ @misscifrance | 8258 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:35:11,339 [INFO] (163/2375) @double_.v
+2026-05-15 17:35:15,370 [INFO]   ✗ Abonnés insuffisants (3433)
+2026-05-15 17:35:15,374 [INFO] (164/2375) @realtalk_adventures
+2026-05-15 17:35:19,304 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:35:19,304 [INFO] (165/2375) @stemilano13
+2026-05-15 17:35:23,466 [INFO]   ✗ Trop d'abonnés (1400000)
+2026-05-15 17:35:23,467 [INFO] (166/2375) @cassandrankoe
+2026-05-15 17:35:27,521 [INFO]   ✓ @cassandrankoe | 42200 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:35:35,819 [INFO] (167/2375) @cecematchaa
+2026-05-15 17:35:40,007 [INFO]   ✗ Abonnés insuffisants (2843)
+2026-05-15 17:35:40,011 [INFO] (168/2375) @best65422
+2026-05-15 17:35:44,388 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:35:44,391 [INFO] (169/2375) @_av.._
+2026-05-15 17:35:48,401 [INFO]   ✓ @_av.._ | 7479 abonnés | score CI=6 | cats=N/A
+2026-05-15 17:35:55,165 [INFO] (170/2375) @roidupixel
+2026-05-15 17:35:59,191 [INFO]   ✓ @roidupixel | 6494 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:36:04,916 [INFO] (171/2375) @bebesarah9
+2026-05-15 17:36:09,384 [INFO]   ✗ Abonnés insuffisants (111)
+2026-05-15 17:36:09,386 [INFO] (172/2375) @realkenz_0
+2026-05-15 17:36:13,248 [INFO]   ✓ @realkenz_0 | 15900 abonnés | score CI=6 | cats=N/A
+2026-05-15 17:36:17,544 [INFO] (173/2375) @cheriecocodreably
+2026-05-15 17:36:21,945 [INFO]   ✗ Trop d'abonnés (586900)
+2026-05-15 17:36:21,946 [INFO] (174/2375) @urfavivorian1
+2026-05-15 17:36:25,859 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:36:25,862 [INFO] (175/2375) @oumargps1
+2026-05-15 17:36:30,031 [INFO]   ✗ Trop d'abonnés (355500)
+2026-05-15 17:36:30,033 [INFO] (176/2375) @chmlt4
+2026-05-15 17:36:33,934 [INFO]   ✓ @chmlt4 | 7884 abonnés | score CI=8 | cats=N/A
+2026-05-15 17:36:41,054 [INFO] (177/2375) @lifewithmellrosee
+2026-05-15 17:36:45,349 [INFO]   ✓ @lifewithmellrosee | 18900 abonnés | score CI=8 | cats=N/A
+2026-05-15 17:36:53,370 [INFO] (178/2375) @lilsbll
+2026-05-15 17:36:57,638 [INFO]   ✗ Abonnés insuffisants (3581)
+2026-05-15 17:36:57,639 [INFO] (179/2375) @alidenjel
+2026-05-15 17:37:01,614 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:37:01,615 [INFO] (180/2375) @yannick__41
+2026-05-15 17:37:05,936 [INFO]   ✓ @yannick__41 | 46700 abonnés | score CI=12 | cats=N/A
+2026-05-15 17:37:10,923 [INFO] (181/2375) @marion_ors
+2026-05-15 17:37:14,966 [INFO]   ✓ @marion_ors | 5773 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:37:22,558 [INFO] (182/2375) @jonathandjr
+2026-05-15 17:37:26,674 [INFO]   ✓ @jonathandjr | 174600 abonnés | score CI=8 | cats=N/A
+2026-05-15 17:37:31,983 [INFO] (183/2375) @dydy..yeman
+2026-05-15 17:37:36,217 [INFO]   ✗ Trop d'abonnés (1500000)
+2026-05-15 17:37:36,218 [INFO] (184/2375) @oufitialivoirienne01
+2026-05-15 17:37:40,244 [INFO]   ✗ Trop d'abonnés (242700)
+2026-05-15 17:37:40,245 [INFO] (185/2375) @glams_pretty
+2026-05-15 17:37:44,585 [INFO]   ✓ @glams_pretty | 10600 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:37:50,765 [INFO] (186/2375) @buzzdici.com
+2026-05-15 17:37:54,941 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:37:54,942 [INFO] (187/2375) @lagourmetteci
+2026-05-15 17:37:59,135 [INFO]   ✓ @lagourmetteci | 18300 abonnés | score CI=12 | cats=N/A
+2026-05-15 17:38:04,003 [INFO] (188/2375) @silverimmo
+2026-05-15 17:38:08,434 [INFO]   ✓ @silverimmo | 98600 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:38:14,546 [INFO] (189/2375) @gottalovejohannaa
+2026-05-15 17:38:18,761 [INFO]   ✗ Abonnés insuffisants (4024)
+2026-05-15 17:38:18,762 [INFO] (190/2375) @kommandersamosamo
+2026-05-15 17:38:22,759 [INFO]   ✗ Trop d'abonnés (773800)
+2026-05-15 17:38:22,760 [INFO] (191/2375) @foo_dy.s
+2026-05-15 17:38:26,920 [INFO]   ✓ @foo_dy.s | 34600 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:38:31,298 [INFO] (192/2375) @doupi_2025
+2026-05-15 17:38:35,398 [INFO]   ✗ Trop d'abonnés (502900)
+2026-05-15 17:38:35,399 [INFO] (193/2375) @smookii_gamer
+2026-05-15 17:38:40,403 [INFO]   ✗ Trop d'abonnés (2500000)
+2026-05-15 17:38:40,404 [INFO] (194/2375) @tairouousman1
+2026-05-15 17:38:44,538 [INFO]   ✓ @tairouousman1 | 5544 abonnés | score CI=16 | cats=N/A
+2026-05-15 17:38:51,372 [INFO] (195/2375) @konestore1
+2026-05-15 17:38:55,547 [INFO]   ✓ @konestore1 | 76500 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:39:01,981 [INFO] (196/2375) @ivorian_editor
+2026-05-15 17:39:06,109 [INFO]   ✓ @ivorian_editor | 65200 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:39:14,343 [INFO] (197/2375) @colonel_07
+2026-05-15 17:39:18,405 [INFO]   ✓ @colonel_07 | 61500 abonnés | score CI=12 | cats=N/A
+2026-05-15 17:39:27,034 [INFO] (198/2375) @iamqueentess
+2026-05-15 17:39:31,092 [INFO]   ✓ @iamqueentess | 65100 abonnés | score CI=12 | cats=N/A
+2026-05-15 17:39:36,647 [INFO] (199/2375) @coupedecalestar
+2026-05-15 17:39:40,848 [INFO]   ✗ Trop d'abonnés (334500)
+2026-05-15 17:39:40,849 [INFO] (200/2375) @vox.225
+2026-05-15 17:39:44,727 [INFO]   ✓ @vox.225 | 18400 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:39:52,612 [INFO] (201/2375) @yannickkhauph
+2026-05-15 17:39:56,608 [INFO]   ✓ @yannickkhauph | 123200 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:40:02,192 [INFO] (202/2375) @diiana.elshan1
+2026-05-15 17:40:06,622 [INFO]   ✗ Langue=de ≠ fr
+2026-05-15 17:40:06,632 [INFO] (203/2375) @babicristhinaamorim
+2026-05-15 17:40:10,507 [INFO]   ✗ Langue=pt ≠ fr
+2026-05-15 17:40:10,510 [INFO] (204/2375) @bybi.spam
+2026-05-15 17:40:14,430 [INFO]   ✗ Abonnés insuffisants (2172)
+2026-05-15 17:40:14,430 [INFO] (205/2375) @champagnerose.07
+2026-05-15 17:40:18,539 [INFO]   ✗ Trop d'abonnés (497000)
+2026-05-15 17:40:18,540 [INFO] (206/2375) @.habibat
+2026-05-15 17:40:22,661 [INFO]   ✓ @.habibat | 37700 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:40:28,746 [INFO] (207/2375) @diawara.kasirani
+2026-05-15 17:40:32,987 [INFO]   ✓ @diawara.kasirani | 73400 abonnés | score CI=6 | cats=N/A
+2026-05-15 17:40:39,105 [INFO] (208/2375) @p2n.08
+2026-05-15 17:40:43,223 [INFO]   ✓ @p2n.08 | 137200 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:40:47,619 [INFO] (209/2375) @logobi.logobi
+2026-05-15 17:40:51,890 [INFO]   ✓ @logobi.logobi | 24000 abonnés | score CI=7 | cats=N/A
+2026-05-15 17:40:58,998 [INFO] (210/2375) @badzik225
+2026-05-15 17:41:03,173 [INFO]   ✓ @badzik225 | 134100 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:41:11,444 [INFO] (211/2375) @beauyeux150
+2026-05-15 17:41:15,780 [INFO]   ✓ @beauyeux150 | 5003 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:41:22,283 [INFO] (212/2375) @odiasylla94
+2026-05-15 17:41:26,991 [INFO]   ✓ @odiasylla94 | 10600 abonnés | score CI=10 | cats=N/A
+2026-05-15 17:41:32,083 [INFO] (213/2375) @mrkonelevrai
+2026-05-15 17:41:36,261 [INFO]   ✓ @mrkonelevrai | 145100 abonnés | score CI=14 | cats=N/A
+2026-05-15 17:41:43,657 [INFO] (214/2375) @lato_matx
+2026-05-15 17:41:47,979 [INFO]   ✓ @lato_matx | 93800 abonnés | score CI=15 | cats=N/A
+2026-05-15 17:41:55,147 [INFO] (215/2375) @kitokoshop4
+2026-05-15 17:41:59,247 [INFO]   ✗ Abonnés insuffisants (0)
+2026-05-15 17:41:59,248 [INFO] (216/2375) @wen_dyams
+2026-05-15 17:42:03,248 [INFO]   ✓ @wen_dyams | 21600 abonnés | score CI=11 | cats=N/A
+2026-05-15 17:42:09,473 [INFO] (217/2375) @reflettv1
+2026-05-15 17:42:13,705 [INFO]   ✗ Langue=en ≠ fr
+2026-05-15 17:42:13,706 [INFO] (218/2375) @christmedia0
+2026-05-15 17:42:17,714 [INFO]   ✗ Abonnés insuffisants (4501)
+2026-05-15 17:42:17,716 [INFO] (219/2375) @williana.ornela1
+2026-05-15 17:42:21,754 [INFO]   ✓ @williana.ornela1 | 37600 abonnés | score CI=8 | cats=N/A
+2026-05-15 17:42:26,657 [INFO] Limite atteinte : 100
+2026-05-15 17:42:28,574 [INFO] Terminé : 100 profils valides → influenceurs_ci.csv
