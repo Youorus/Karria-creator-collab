@@ -1,0 +1,54 @@
+# ═══════════════════════════════════════════════════════════════════
+# config.yaml — Configuration d'exécution pour TikTok Scraper
+# ═══════════════════════════════════════════════════════════════════
+#
+# Usage :
+#   python tiktok_scraper.py --config config.yaml
+#
+# Tous les paramètres ici sont surchargés par les flags CLI.
+# Exemple de surcharge :
+#   python tiktok_scraper.py --config config.yaml --pays NG --min 10000
+#
+# ═══════════════════════════════════════════════════════════════════
+
+# ── Ciblage géographique ──────────────────────────────────────────
+pays_code: "CI"          # Code ISO du pays (doit exister dans countries.yaml)
+
+# ── Filtres followers ─────────────────────────────────────────────
+min_followers: 5000
+max_followers:     # 0 = illimité
+
+# ── Catégories ciblées ────────────────────────────────────────────
+# Laisser vide [] pour accepter toutes les catégories
+# Valeurs disponibles : fitness, yoga, cuisine, voyage, mode, beaute,
+#   famille, gaming, tech, coding, finance, business, musique, art,
+#   cinema, comedie, education, developpement, sport, nature, general
+categories: []
+
+# ── Mots-clés et hashtags personnalisés ──────────────────────────
+# Si vide, les valeurs de countries.yaml pour le pays sélectionné seront utilisées
+hashtags: []
+mots_cles: []
+
+# ── Limites de collecte ───────────────────────────────────────────
+max_profils: 100
+max_videos_par_recherche: 120
+max_scrolls_par_recherche: 18
+stop_apres_scrolls_sans_nouveau: 5
+
+# ── Filtres qualité ───────────────────────────────────────────────
+min_country_score: 2
+
+# ── Sorties ───────────────────────────────────────────────────────
+output_csv: "influenceurs_ci.csv"
+checkpoint_file: "checkpoint_ci.json"
+
+# ── Timing (secondes) ─────────────────────────────────────────────
+delai_min: 4.0
+delai_max: 9.0
+scroll_pause: 3.0
+max_retries: 3
+
+# ── Sources actives ───────────────────────────────────────────────
+collect_from_hashtags: true
+collect_from_search: false

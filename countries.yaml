@@ -1,0 +1,805 @@
+# ═══════════════════════════════════════════════════════════════════════
+# countries.yaml — Configuration des pays pour TikTok Scraper
+# ═══════════════════════════════════════════════════════════════════════
+#
+# Structure de chaque pays :
+#   langue_code           : code ISO langue (fr, en, ar…)
+#   tiktok_locale         : locale TikTok (fr-CI, en-NG…)
+#   datacenter_cookie     : datacenter TikTok (fra02, sin01…)
+#   hashtags              : liste des hashtags à parcourir (sans #)
+#   local_keywords        : mots-clés locaux (villes, gentilés…)
+#   strong_signals        : signaux forts pour le score pays
+#   default_search_phrases: phrases de recherche thématiques
+#   viral_search_phrases  : phrases virales génériques pour filet large
+#
+# Pour ajouter un pays :
+#   Copier un bloc, changer la clé (code ISO-2), remplir les 8 champs.
+# ═══════════════════════════════════════════════════════════════════════
+
+
+# ────────────────────────────────────────────
+# FRANCE
+# ────────────────────────────────────────────
+FR:
+  langue_code: "fr"
+  tiktok_locale: "fr-FR"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    # Identité nationale
+    - france
+    - francetiktok
+    - french
+    - francais
+    - parisien
+    # Villes
+    - paris
+    - marseille
+    - lyon
+    - bordeaux
+    - toulouse
+    - nantes
+    - strasbourg
+    - montpellier
+    - lille
+    - nice
+    - rennes
+    - grenoble
+    # Lifestyle viral FR
+    - vieparis
+    - frenchlife
+    - frenchgirl
+    - frenchboy
+    - viequotidienne
+    - humourfrancais
+    - sketchfrancais
+    - comedie
+    # Tendances FR TikTok
+    - pourmoi
+    - fyp
+    - trending
+    - viral
+    - pourtoi
+    - tiktokfrance
+    # Niches populaires
+    - etudiant
+    - lyceen
+    - jobetudiant
+    - entrepreneurfr
+    - businessfr
+    - investissementfr
+
+  local_keywords:
+    - france
+    - paris
+    - marseille
+    - lyon
+    - bordeaux
+    - toulouse
+    - nantes
+    - strasbourg
+    - montpellier
+    - lille
+    - nice
+    - rennes
+    - grenoble
+    - français
+    - française
+    - parisien
+    - parisienne
+    - métropole
+    - hexagone
+
+  strong_signals:
+    - france
+    - paris
+    - marseille
+    - lyon
+    - français
+    - française
+    - hexagone
+
+  default_search_phrases:
+    - vlog paris
+    - humour français
+    - cuisine française
+    - lifestyle france
+    - etudiant france
+    - entrepreneur france
+    - france tiktok
+    - comedie francaise
+    - conseil finance france
+    - mode paris
+
+  viral_search_phrases:
+    - vlog journee
+    - ma routine
+    - vie quotidienne
+    - day in my life
+    - conseil de vie
+    - astuce pratique
+    - motivation du jour
+    - storytime france
+    - challenge france
+    - trend france
+
+
+# ────────────────────────────────────────────
+# CÔTE D'IVOIRE
+# ────────────────────────────────────────────
+CI:
+  langue_code: "fr"
+  tiktok_locale: "fr-CI"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    # Identité nationale
+    - cotedivoire
+    - coteivoire
+    - ivoirien
+    - ivoirienne
+    - ivoiriens
+    - tiktokci
+    - tiktokcotedivoire
+    - buzzivoire
+    - "225"
+    # Villes
+    - abidjan
+    - abidjan225
+    - babi
+    - yopougon
+    - cocody
+    - marcory
+    - plateau
+    - treichville
+    - koumassi
+    - bouake
+    - bassam
+    - sanpedro
+    - korhogo
+    - abobo
+    # Humour & culture
+    - humourivoirien
+    - comedieivoirienne
+    - sketchivoire
+    # Business
+    - businessabidjan
+    - entrepreneurivoire
+    # Mode & beauté
+    - modeivoirienne
+    # Cuisine locale
+    - cuisineivoirienne
+    - garba
+    - attieke
+    - alloco
+    - foutou
+    # Viral générique
+    - pourmoi
+    - viral
+    - fyp
+    - trending
+
+  local_keywords:
+    - "côte d'ivoire"
+    - "cote d ivoire"
+    - cotedivoire
+    - abidjan
+    - "225"
+    - babi
+    - ivoirien
+    - ivoirienne
+    - yopougon
+    - cocody
+    - bouaké
+    - bouake
+    - marcory
+    - plateau
+    - treichville
+    - koumassi
+    - bassam
+    - san pedro
+    - korhogo
+    - abobo
+    - riviera
+    - bingerville
+    - dabou
+
+  strong_signals:
+    - "cote d ivoire"
+    - "côte d'ivoire"
+    - cotedivoire
+    - abidjan
+    - "225"
+    - yopougon
+    - cocody
+    - babi
+    - ivoirien
+    - ivoirienne
+
+  default_search_phrases:
+    - humour ivoirien
+    - cuisine ivoirienne
+    - mode ivoirienne
+    - business abidjan
+    - abidjan vlog
+    - babi humour
+    - cote d ivoire tiktok
+    - sketch ivoirien
+
+  viral_search_phrases:
+    - vlog abidjan
+    - ma journee abidjan
+    - vie a abidjan
+    - routine abidjan
+    - conseil ci
+    - motivation ivoire
+
+
+# ────────────────────────────────────────────
+# SÉNÉGAL
+# ────────────────────────────────────────────
+SN:
+  langue_code: "fr"
+  tiktok_locale: "fr-SN"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - senegal
+    - senegaltiktok
+    - dakar
+    - dakarvibe
+    - teranga
+    - wolof
+    - senegale
+    - senegales
+    - senegalesestyle
+    - saintlouis
+    - thies
+    - ziguinchor
+    - touba
+    - mbalax
+    - thieboudienne
+    - ceebu
+    - dakarhip
+    - dakarbusiness
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - senegal
+    - dakar
+    - sénégal
+    - teranga
+    - wolof
+    - saint-louis
+    - thiès
+    - ziguinchor
+    - touba
+    - casamance
+    - sénégalais
+    - senegales
+
+  strong_signals:
+    - senegal
+    - dakar
+    - teranga
+    - wolof
+    - sénégal
+
+  default_search_phrases:
+    - vlog dakar
+    - humour senegalais
+    - cuisine senegalaise
+    - senegal tiktok
+    - thieboudienne recette
+    - business dakar
+
+  viral_search_phrases:
+    - ma journee dakar
+    - vie a dakar
+    - routine senegal
+    - conseil senegal
+    - storytime senegal
+
+
+# ────────────────────────────────────────────
+# CAMEROUN
+# ────────────────────────────────────────────
+CM:
+  langue_code: "fr"
+  tiktok_locale: "fr-CM"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - cameroun
+    - cameroon
+    - tiktokcameroun
+    - camerounais
+    - camerounaise
+    - "237"
+    - yaounde
+    - douala
+    - bafia
+    - ndole
+    - kondre
+    - abegue
+    - humourcamerounais
+    - businesscameroun
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - cameroun
+    - cameroon
+    - yaoundé
+    - douala
+    - "237"
+    - camerounais
+    - camerounaise
+    - bamileke
+    - bassa
+    - anglophone
+
+  strong_signals:
+    - cameroun
+    - cameroon
+    - yaoundé
+    - douala
+    - "237"
+
+  default_search_phrases:
+    - vlog douala
+    - humour camerounais
+    - cuisine camerounaise
+    - cameroun tiktok
+    - business douala
+
+  viral_search_phrases:
+    - vie a douala
+    - ma journee cameroun
+    - routine cameroun
+    - conseil cameroun
+
+
+# ────────────────────────────────────────────
+# GHANA
+# ────────────────────────────────────────────
+GH:
+  langue_code: "en"
+  tiktok_locale: "en-GH"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - ghana
+    - ghanatiktok
+    - ghanaians
+    - accra
+    - kumasi
+    - ghlife
+    - ghvibe
+    - ghanamusic
+    - hiplife
+    - highlife
+    - accravibe
+    - ghanatiktok
+    - ghanabusiness
+    - ghanaentrepreneur
+    - foryou
+    - viral
+    - fyp
+    - trending
+
+  local_keywords:
+    - ghana
+    - accra
+    - kumasi
+    - ghanaian
+    - twi
+    - ashanti
+    - volta
+    - tamale
+    - tema
+
+  strong_signals:
+    - ghana
+    - accra
+    - kumasi
+    - ghanaian
+
+  default_search_phrases:
+    - ghana vlog
+    - ghana tiktok
+    - ghana lifestyle
+    - accra life
+    - ghana business
+
+  viral_search_phrases:
+    - day in my life accra
+    - life in ghana
+    - ghana routine
+    - ghana tips
+
+
+# ────────────────────────────────────────────
+# NIGERIA
+# ────────────────────────────────────────────
+NG:
+  langue_code: "en"
+  tiktok_locale: "en-NG"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - nigeria
+    - nigerian
+    - naija
+    - nigeriantiktok
+    - lagos
+    - abuja
+    - lagosvibe
+    - abujalife
+    - nollywood
+    - afrobeats
+    - yoruba
+    - igbo
+    - hausa
+    - lagosbusiness
+    - naijabusiness
+    - nigerianentrepreneur
+    - foryou
+    - viral
+    - fyp
+    - trending
+
+  local_keywords:
+    - nigeria
+    - lagos
+    - abuja
+    - naija
+    - nigerian
+    - yoruba
+    - igbo
+    - hausa
+    - enugu
+    - ibadan
+    - kano
+    - portharcourt
+
+  strong_signals:
+    - nigeria
+    - lagos
+    - naija
+    - abuja
+    - nigerian
+
+  default_search_phrases:
+    - lagos vlog
+    - nigeria tiktok
+    - naija lifestyle
+    - afrobeats nigeria
+    - business nigeria
+
+  viral_search_phrases:
+    - day in my life lagos
+    - life in nigeria
+    - nigeria routine
+    - naija tips
+    - lagos hustle
+
+
+# ────────────────────────────────────────────
+# MAROC
+# ────────────────────────────────────────────
+MA:
+  langue_code: "ar"
+  tiktok_locale: "ar-MA"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - maroc
+    - morocco
+    - marocain
+    - marocaine
+    - tiktokmaroc
+    - casablanca
+    - rabat
+    - marrakech
+    - fes
+    - agadir
+    - tanger
+    - darija
+    - maroclife
+    - humourmarocain
+    - businessmaroc
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - maroc
+    - morocco
+    - casablanca
+    - rabat
+    - marrakech
+    - marocain
+    - marocaine
+    - darija
+    - agadir
+    - fès
+    - tanger
+
+  strong_signals:
+    - maroc
+    - morocco
+    - casablanca
+    - marrakech
+    - darija
+
+  default_search_phrases:
+    - vlog casablanca
+    - maroc tiktok
+    - humour marocain
+    - cuisine marocaine
+    - business maroc
+
+  viral_search_phrases:
+    - vie a casablanca
+    - ma journee maroc
+    - routine maroc
+    - conseil maroc
+
+
+# ────────────────────────────────────────────
+# MALI
+# ────────────────────────────────────────────
+ML:
+  langue_code: "fr"
+  tiktok_locale: "fr-ML"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - mali
+    - malien
+    - malienne
+    - bamako
+    - tiktokmali
+    - "223"
+    - malitiktok
+    - bamakotiktok
+    - humourmalien
+    - businessmali
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - mali
+    - bamako
+    - malien
+    - malienne
+    - "223"
+    - sikasso
+    - ségou
+    - mopti
+    - tombouctou
+
+  strong_signals:
+    - mali
+    - bamako
+    - malien
+    - malienne
+    - "223"
+
+  default_search_phrases:
+    - vlog bamako
+    - mali tiktok
+    - humour malien
+    - cuisine malienne
+    - business bamako
+
+  viral_search_phrases:
+    - vie a bamako
+    - ma journee mali
+    - routine mali
+
+
+# ────────────────────────────────────────────
+# GUINÉE
+# ────────────────────────────────────────────
+GN:
+  langue_code: "fr"
+  tiktok_locale: "fr-GN"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - guinee
+    - guineenne
+    - guineen
+    - conakry
+    - tiktokguinee
+    - "224"
+    - guineevibe
+    - businessconakry
+    - humourguineen
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - guinee
+    - conakry
+    - guineen
+    - guineenne
+    - "224"
+    - kindia
+    - kankan
+    - labe
+
+  strong_signals:
+    - guinee
+    - conakry
+    - guineen
+    - guineenne
+    - "224"
+
+  default_search_phrases:
+    - vlog conakry
+    - guinee tiktok
+    - humour guineen
+    - business conakry
+
+  viral_search_phrases:
+    - vie a conakry
+    - ma journee guinee
+    - routine guinee
+
+
+# ────────────────────────────────────────────
+# BURKINA FASO
+# ────────────────────────────────────────────
+BF:
+  langue_code: "fr"
+  tiktok_locale: "fr-BF"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - burkinafaso
+    - burkinabe
+    - ouagadougou
+    - tiktokburkina
+    - "226"
+    - ouagavibe
+    - businessouaga
+    - humourburkinabe
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - burkina faso
+    - ouagadougou
+    - burkinabe
+    - "226"
+    - bobo dioulasso
+    - koudougou
+    - ouahigouya
+
+  strong_signals:
+    - burkina faso
+    - ouagadougou
+    - burkinabe
+    - "226"
+
+  default_search_phrases:
+    - vlog ouagadougou
+    - burkina faso tiktok
+    - humour burkinabe
+    - business ouaga
+
+  viral_search_phrases:
+    - vie a ouaga
+    - ma journee burkina
+    - routine burkina
+
+
+# ────────────────────────────────────────────
+# TOGO
+# ────────────────────────────────────────────
+TG:
+  langue_code: "fr"
+  tiktok_locale: "fr-TG"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - togo
+    - togolais
+    - togolaise
+    - lome
+    - tiktoktogo
+    - "228"
+    - lomevibe
+    - businesslome
+    - humourtogolaис
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - togo
+    - lomé
+    - togolais
+    - togolaise
+    - "228"
+    - kpalime
+    - sokode
+    - kara
+
+  strong_signals:
+    - togo
+    - lomé
+    - togolais
+    - togolaise
+    - "228"
+
+  default_search_phrases:
+    - vlog lome
+    - togo tiktok
+    - humour togolais
+    - business lome
+
+  viral_search_phrases:
+    - vie a lome
+    - ma journee togo
+    - routine togo
+
+
+# ────────────────────────────────────────────
+# BÉNIN
+# ────────────────────────────────────────────
+BJ:
+  langue_code: "fr"
+  tiktok_locale: "fr-BJ"
+  datacenter_cookie: "fra02"
+
+  hashtags:
+    - benin
+    - beninois
+    - beninoise
+    - cotonou
+    - tiktokbenin
+    - "229"
+    - cotounovibe
+    - businesscotonou
+    - humourbeninois
+    - pourmoi
+    - viral
+    - fyp
+
+  local_keywords:
+    - benin
+    - cotonou
+    - beninois
+    - beninoise
+    - "229"
+    - porto novo
+    - parakou
+    - abomey
+
+  strong_signals:
+    - benin
+    - cotonou
+    - beninois
+    - beninoise
+    - "229"
+
+  default_search_phrases:
+    - vlog cotonou
+    - benin tiktok
+    - humour beninois
+    - business cotonou
+
+  viral_search_phrases:
+    - vie a cotonou
+    - ma journee benin
+    - routine benin
